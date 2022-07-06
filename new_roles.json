@@ -1,0 +1,12 @@
+[
+    {
+        "model": "crim.crimrole",
+        "fields": {
+            "piece": "CRIM_Model_1000",
+            "role_type": "editor",
+            "date": "2022",
+            "person": "CRIM_Person_1000",
+            "remarks": ""
+        }
+    }
+]

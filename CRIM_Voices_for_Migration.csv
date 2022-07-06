@@ -1,0 +1,836 @@
+work_title,piece.piece_id,piece__title,voice_id,order,original_name,regularized_name,CRIM_Obs_Name
+Missa Confitemini,CRIM_Mass_0001_1,Kyrie,CRIM_Mass_0001_1(1),1,[Superius],Superius,Superius
+Missa Confitemini,CRIM_Mass_0001_1,Kyrie,CRIM_Mass_0001_1(2),2,[Contratenor],Contratenor,Contratenor
+Missa Confitemini,CRIM_Mass_0001_1,Kyrie,CRIM_Mass_0001_1(3),3,[Tenor],Tenor,Tenor
+Missa Confitemini,CRIM_Mass_0001_1,Kyrie,CRIM_Mass_0001_1(4),4,[Bassus],Bassus,Bassus
+Missa Confitemini,CRIM_Mass_0001_2,Gloria,CRIM_Mass_0001_2(1),1,[Superius],Superius,Superius
+Missa Confitemini,CRIM_Mass_0001_2,Gloria,CRIM_Mass_0001_2(2),2,[Contratenor],Contratenor,Contratenor
+Missa Confitemini,CRIM_Mass_0001_2,Gloria,CRIM_Mass_0001_2(3),3,[Tenor],Tenor,Tenor
+Missa Confitemini,CRIM_Mass_0001_2,Gloria,CRIM_Mass_0001_2(4),4,[Bassus],Bassus,Bassus
+Missa Confitemini,CRIM_Mass_0001_3,Credo,CRIM_Mass_0001_3(1),1,[Superius],Superius,Superius
+Missa Confitemini,CRIM_Mass_0001_3,Credo,CRIM_Mass_0001_3(2),2,[Contratenor],Contratenor,Contratenor
+Missa Confitemini,CRIM_Mass_0001_3,Credo,CRIM_Mass_0001_3(3),3,[Tenor],Tenor,Tenor
+Missa Confitemini,CRIM_Mass_0001_3,Credo,CRIM_Mass_0001_3(4),4,[Bassus],Bassus,Bassus
+Missa Confitemini,CRIM_Mass_0001_4,Sanctus,CRIM_Mass_0001_4(1),1,[Superius],Superius,Superius
+Missa Confitemini,CRIM_Mass_0001_4,Sanctus,CRIM_Mass_0001_4(2),2,[Contratenor],Contratenor,Contratenor
+Missa Confitemini,CRIM_Mass_0001_4,Sanctus,CRIM_Mass_0001_4(3),3,[Tenor],Tenor,Tenor
+Missa Confitemini,CRIM_Mass_0001_4,Sanctus,CRIM_Mass_0001_4(4),4,[Bassus],Bassus,Bassus
+Missa Confitemini,CRIM_Mass_0001_5,Agnus Dei,CRIM_Mass_0001_5(1),1,[Superius],Superius,Superius
+Missa Confitemini,CRIM_Mass_0001_5,Agnus Dei,CRIM_Mass_0001_5(2),2,[Contratenor],Contratenor,Contratenor
+Missa Confitemini,CRIM_Mass_0001_5,Agnus Dei,CRIM_Mass_0001_5(3),3,[Tenor],Tenor,Tenor
+Missa Confitemini,CRIM_Mass_0001_5,Agnus Dei,CRIM_Mass_0001_5(4),4,[Bassus],Bassus,Bassus
+Missa Vidi speciosam,CRIM_Mass_0002_1,Kyrie,CRIM_Mass_0002_1(1),1,[Superius],Superius,[Superius]
+Missa Vidi speciosam,CRIM_Mass_0002_1,Kyrie,CRIM_Mass_0002_1(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Vidi speciosam,CRIM_Mass_0002_1,Kyrie,CRIM_Mass_0002_1(3),3,I. Tenor,Tenor 1,I.Tenor
+Missa Vidi speciosam,CRIM_Mass_0002_1,Kyrie,CRIM_Mass_0002_1(4),4,[II. Tenor],Tenor 2,[II.Tenor]
+Missa Vidi speciosam,CRIM_Mass_0002_1,Kyrie,CRIM_Mass_0002_1(5),5,[Bassus],Bassus,[Bassus]
+Missa Vidi speciosam,CRIM_Mass_0002_2,Gloria,CRIM_Mass_0002_2(1),1,[Superius],Superius,[Superius]
+Missa Vidi speciosam,CRIM_Mass_0002_2,Gloria,CRIM_Mass_0002_2(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Vidi speciosam,CRIM_Mass_0002_2,Gloria,CRIM_Mass_0002_2(3),3,I. Tenor,Tenor 1,I.Tenor
+Missa Vidi speciosam,CRIM_Mass_0002_2,Gloria,CRIM_Mass_0002_2(4),4,[II. Tenor],Tenor 2,[II.Tenor]
+Missa Vidi speciosam,CRIM_Mass_0002_2,Gloria,CRIM_Mass_0002_2(5),5,[Bassus],Bassus,[Bassus]
+Missa Vidi speciosam,CRIM_Mass_0002_3,Credo,CRIM_Mass_0002_3(1),1,[Superius],Superius,[Superius]
+Missa Vidi speciosam,CRIM_Mass_0002_3,Credo,CRIM_Mass_0002_3(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Vidi speciosam,CRIM_Mass_0002_3,Credo,CRIM_Mass_0002_3(3),3,I. Tenor,Tenor 1,I. Tenor
+Missa Vidi speciosam,CRIM_Mass_0002_3,Credo,CRIM_Mass_0002_3(4),4,[II. Tenor],Tenor 2,[II. Tenor]
+Missa Vidi speciosam,CRIM_Mass_0002_3,Credo,CRIM_Mass_0002_3(5),5,[Bassus],Bassus,[Bassus]
+Missa Vidi speciosam,CRIM_Mass_0002_4,Sanctus,CRIM_Mass_0002_4(1),1,[Superius],Superius,[Superius]
+Missa Vidi speciosam,CRIM_Mass_0002_4,Sanctus,CRIM_Mass_0002_4(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Vidi speciosam,CRIM_Mass_0002_4,Sanctus,CRIM_Mass_0002_4(3),3,I. Tenor,Tenor 1,I. Tenor
+Missa Vidi speciosam,CRIM_Mass_0002_4,Sanctus,CRIM_Mass_0002_4(4),4,[II. Tenor],Tenor 2,[II. Tenor]
+Missa Vidi speciosam,CRIM_Mass_0002_4,Sanctus,CRIM_Mass_0002_4(5),5,[Bassus],Bassus,[Bassus]
+Missa Vidi speciosam,CRIM_Mass_0002_5,Agnus Dei,CRIM_Mass_0002_5(1),1,[Superius],Superius,[Superius]
+Missa Vidi speciosam,CRIM_Mass_0002_5,Agnus Dei,CRIM_Mass_0002_5(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Vidi speciosam,CRIM_Mass_0002_5,Agnus Dei,CRIM_Mass_0002_5(3),3,[Quintus],Quintus,[Quintus]
+Missa Vidi speciosam,CRIM_Mass_0002_5,Agnus Dei,CRIM_Mass_0002_5(4),4,I. Tenor,Tenor 1,I. Tenor
+Missa Vidi speciosam,CRIM_Mass_0002_5,Agnus Dei,CRIM_Mass_0002_5(5),5,[II. Tenor],Tenor 2,[II. Tenor]
+Missa Vidi speciosam,CRIM_Mass_0002_5,Agnus Dei,CRIM_Mass_0002_5(6),6,[Bassus],Bassus,[Bassus]
+Missa O gente brunette,CRIM_Mass_0003_1,Kyrie,CRIM_Mass_0003_1(1),1,[Superius],Superius,[Superius]
+Missa O gente brunette,CRIM_Mass_0003_1,Kyrie,CRIM_Mass_0003_1(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa O gente brunette,CRIM_Mass_0003_1,Kyrie,CRIM_Mass_0003_1(3),3,[Tenor],Tenor,[Tenor]
+Missa O gente brunette,CRIM_Mass_0003_1,Kyrie,CRIM_Mass_0003_1(4),4,[Bassus],Bassus,[Bassus]
+Missa O gente brunette,CRIM_Mass_0003_2,Gloria,CRIM_Mass_0003_2(1),1,[Superius],Superius,[Superius]
+Missa O gente brunette,CRIM_Mass_0003_2,Gloria,CRIM_Mass_0003_2(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa O gente brunette,CRIM_Mass_0003_2,Gloria,CRIM_Mass_0003_2(3),3,[Tenor],Tenor,[Tenor]
+Missa O gente brunette,CRIM_Mass_0003_2,Gloria,CRIM_Mass_0003_2(4),4,[Bassus],Bassus,[Bassus]
+Missa O gente brunette,CRIM_Mass_0003_3,Credo,CRIM_Mass_0003_3(1),1,[Superius],Superius,[Superius]
+Missa O gente brunette,CRIM_Mass_0003_3,Credo,CRIM_Mass_0003_3(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa O gente brunette,CRIM_Mass_0003_3,Credo,CRIM_Mass_0003_3(3),3,[Tenor],Tenor,[Tenor]
+Missa O gente brunette,CRIM_Mass_0003_3,Credo,CRIM_Mass_0003_3(4),4,[Bassus],Bassus,[Bassus]
+Missa O gente brunette,CRIM_Mass_0003_4,Sanctus,CRIM_Mass_0003_4(1),1,[Superius],Superius,[Superius]
+Missa O gente brunette,CRIM_Mass_0003_4,Sanctus,CRIM_Mass_0003_4(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa O gente brunette,CRIM_Mass_0003_4,Sanctus,CRIM_Mass_0003_4(3),3,[Tenor],Tenor,[Tenor]
+Missa O gente brunette,CRIM_Mass_0003_4,Sanctus,CRIM_Mass_0003_4(4),4,[Bassus],Bassus,[Bassus]
+Missa O gente brunette,CRIM_Mass_0003_5,Agnus Dei,CRIM_Mass_0003_5(1),1,Primus Superius,Superius 1,Primus Superius
+Missa O gente brunette,CRIM_Mass_0003_5,Agnus Dei,CRIM_Mass_0003_5(2),2,Secundus Superius,Superius 2,Secundus Superius
+Missa O gente brunette,CRIM_Mass_0003_5,Agnus Dei,CRIM_Mass_0003_5(3),3,Contratenor,Contratenor,Contratenor
+Missa O gente brunette,CRIM_Mass_0003_5,Agnus Dei,CRIM_Mass_0003_5(4),4,Primus Tenor,Tenor 1,Primus Tenor
+Missa O gente brunette,CRIM_Mass_0003_5,Agnus Dei,CRIM_Mass_0003_5(5),5,Secundus Tenor,Tenor 2,Secundus Tenor
+Missa O gente brunette,CRIM_Mass_0003_5,Agnus Dei,CRIM_Mass_0003_5(6),6,Bassus,Bassus,Bassus
+Missa Virginis Mariae,CRIM_Mass_0004_1,Kyrie,CRIM_Mass_0004_1(1),1,[Superius],Superius,
+Missa Virginis Mariae,CRIM_Mass_0004_1,Kyrie,CRIM_Mass_0004_1(2),2,[Contratenor],Contratenor,
+Missa Virginis Mariae,CRIM_Mass_0004_1,Kyrie,CRIM_Mass_0004_1(3),3,[Tenor],Tenor,
+Missa Virginis Mariae,CRIM_Mass_0004_1,Kyrie,CRIM_Mass_0004_1(4),4,[Bassus],Bassus,
+Missa Virginis Mariae,CRIM_Mass_0004_2,Gloria,CRIM_Mass_0004_2(1),1,[Superius],Superius,
+Missa Virginis Mariae,CRIM_Mass_0004_2,Gloria,CRIM_Mass_0004_2(2),2,[Contratenor],Contratenor,
+Missa Virginis Mariae,CRIM_Mass_0004_2,Gloria,CRIM_Mass_0004_2(3),3,[Tenor],Tenor,
+Missa Virginis Mariae,CRIM_Mass_0004_2,Gloria,CRIM_Mass_0004_2(4),4,[Bassus],Bassus,
+Missa Virginis Mariae,CRIM_Mass_0004_3,Credo,CRIM_Mass_0004_3(1),1,[Superius],Superius,
+Missa Virginis Mariae,CRIM_Mass_0004_3,Credo,CRIM_Mass_0004_3(2),2,[Contratenor],Contratenor,
+Missa Virginis Mariae,CRIM_Mass_0004_3,Credo,CRIM_Mass_0004_3(3),3,[Tenor],Tenor,
+Missa Virginis Mariae,CRIM_Mass_0004_3,Credo,CRIM_Mass_0004_3(4),4,[Bassus],Bassus,
+Missa Virginis Mariae,CRIM_Mass_0004_4,Sanctus,CRIM_Mass_0004_4(1),1,[Superius],Superius,
+Missa Virginis Mariae,CRIM_Mass_0004_4,Sanctus,CRIM_Mass_0004_4(2),2,[Contratenor],Contratenor,
+Missa Virginis Mariae,CRIM_Mass_0004_4,Sanctus,CRIM_Mass_0004_4(3),3,[Tenor],Tenor,
+Missa Virginis Mariae,CRIM_Mass_0004_4,Sanctus,CRIM_Mass_0004_4(4),4,[Bassus],Bassus,
+Missa Virginis Mariae,CRIM_Mass_0004_5,Agnus Dei,CRIM_Mass_0004_5(1),1,[Primus Superius],Superius 1,
+Missa Virginis Mariae,CRIM_Mass_0004_5,Agnus Dei,CRIM_Mass_0004_5(2),2,Secundus Superius,Superius 2,
+Missa Virginis Mariae,CRIM_Mass_0004_5,Agnus Dei,CRIM_Mass_0004_5(3),3,[Contratenor],Contratenor,
+Missa Virginis Mariae,CRIM_Mass_0004_5,Agnus Dei,CRIM_Mass_0004_5(4),4,[Tenor],Tenor,
+Missa Virginis Mariae,CRIM_Mass_0004_5,Agnus Dei,CRIM_Mass_0004_5(5),5,[Bassus] ,Bassus,
+Missa Ave Maria,CRIM_Mass_0005_1,Kyrie,CRIM_Mass_0005_1(1),1,Sup[erius],Superius,Sup[erius]
+Missa Ave Maria,CRIM_Mass_0005_1,Kyrie,CRIM_Mass_0005_1(2),2,Altus,Altus,Altus
+Missa Ave Maria,CRIM_Mass_0005_1,Kyrie,CRIM_Mass_0005_1(3),3,Tenor,Tenor,Tenor
+Missa Ave Maria,CRIM_Mass_0005_1,Kyrie,CRIM_Mass_0005_1(4),4,Bassus,Bassus,Bassus
+Missa Ave Maria,CRIM_Mass_0005_2,Gloria,CRIM_Mass_0005_2(1),1,Sup[erius],Superius,Sup[erius]
+Missa Ave Maria,CRIM_Mass_0005_2,Gloria,CRIM_Mass_0005_2(2),2,Altus,Altus,Altus
+Missa Ave Maria,CRIM_Mass_0005_2,Gloria,CRIM_Mass_0005_2(3),3,Tenor,Tenor,Tenor
+Missa Ave Maria,CRIM_Mass_0005_2,Gloria,CRIM_Mass_0005_2(4),4,Bassus,Bassus,Bassus
+Missa Ave Maria,CRIM_Mass_0005_3,Credo,CRIM_Mass_0005_3(1),1,Sup[erius],Superius,Sup[erius]
+Missa Ave Maria,CRIM_Mass_0005_3,Credo,CRIM_Mass_0005_3(2),2,Altus,Altus,Altus
+Missa Ave Maria,CRIM_Mass_0005_3,Credo,CRIM_Mass_0005_3(3),3,Tenor,Tenor,Tenor
+Missa Ave Maria,CRIM_Mass_0005_3,Credo,CRIM_Mass_0005_3(4),4,Bassus,Bassus,Bassus
+Missa Ave Maria,CRIM_Mass_0005_4,Sanctus,CRIM_Mass_0005_4(1),1,Sup[erius],Superius,Sup[erius]
+Missa Ave Maria,CRIM_Mass_0005_4,Sanctus,CRIM_Mass_0005_4(2),2,Altus,Altus,Altus
+Missa Ave Maria,CRIM_Mass_0005_4,Sanctus,CRIM_Mass_0005_4(3),3,Tenor,Tenor,Tenor
+Missa Ave Maria,CRIM_Mass_0005_4,Sanctus,CRIM_Mass_0005_4(4),4,Bassus,Bassus,Bassus
+Missa Ave Maria,CRIM_Mass_0005_5,Agnus Dei,CRIM_Mass_0005_5(1),1,Sup[erius],Superius,Sup[erius]
+Missa Ave Maria,CRIM_Mass_0005_5,Agnus Dei,CRIM_Mass_0005_5(2),2,Altus,Altus,Altus
+Missa Ave Maria,CRIM_Mass_0005_5,Agnus Dei,CRIM_Mass_0005_5(3),3,Tenor,Tenor,Tenor
+Missa Ave Maria,CRIM_Mass_0005_5,Agnus Dei,CRIM_Mass_0005_5(4),4,Bassus,Bassus,Bassus
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_1,Kyrie,CRIM_Mass_0006_1(1),1,[Superius],Superius,[Superius]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_1,Kyrie,CRIM_Mass_0006_1(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_1,Kyrie,CRIM_Mass_0006_1(3),3,[Tenor],Tenor,[Tenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_1,Kyrie,CRIM_Mass_0006_1(4),4,[Bassus],Bassus,[Bassus]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_2,Gloria,CRIM_Mass_0006_2(1),1,[Superius],Superius,[Superius]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_2,Gloria,CRIM_Mass_0006_2(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_2,Gloria,CRIM_Mass_0006_2(3),3,[Tenor],Tenor,[Tenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_2,Gloria,CRIM_Mass_0006_2(4),4,[Bassus],Bassus,[Bassus]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_3,Credo,CRIM_Mass_0006_3(1),1,[Superius],Superius,[Superius]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_3,Credo,CRIM_Mass_0006_3(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_3,Credo,CRIM_Mass_0006_3(3),3,[Tenor],Tenor,[Tenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_3,Credo,CRIM_Mass_0006_3(4),4,[Bassus],Bassus,[Bassus]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_4,Sanctus,CRIM_Mass_0006_4(1),1,[Superius],Superius,[Superius]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_4,Sanctus,CRIM_Mass_0006_4(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_4,Sanctus,CRIM_Mass_0006_4(3),3,[Tenor],Tenor,[Tenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_4,Sanctus,CRIM_Mass_0006_4(4),4,[Bassus],Bassus,[Bassus]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_5,Agnus Dei,CRIM_Mass_0006_5(1),1,[Superius],Superius,[Superius]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_5,Agnus Dei,CRIM_Mass_0006_5(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_5,Agnus Dei,CRIM_Mass_0006_5(3),3,[Tenor 1],Tenor 1,[Tenor 1]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_5,Agnus Dei,CRIM_Mass_0006_5(4),4,[Tenor 2],Tenor 2,[Tenor 2]
+Missa Je suis déshéritée (Guyon),CRIM_Mass_0006_5,Agnus Dei,CRIM_Mass_0006_5(5),5,[Bassus],Bassus,[Bassus]
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_1,Kyrie,CRIM_Mass_0007_1(1),1,[Superius],Superius,Superius
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_1,Kyrie,CRIM_Mass_0007_1(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_1,Kyrie,CRIM_Mass_0007_1(3),3,[Tenor],Tenor,Tenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_1,Kyrie,CRIM_Mass_0007_1(4),4,[Bassus],Bassus,Bassus
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_2,Gloria,CRIM_Mass_0007_2(1),1,[Superius],Superius,Superius
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_2,Gloria,CRIM_Mass_0007_2(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_2,Gloria,CRIM_Mass_0007_2(3),3,[Tenor],Tenor,Tenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_2,Gloria,CRIM_Mass_0007_2(4),4,[Bassus],Bassus,Bassus
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_3,Credo,CRIM_Mass_0007_3(1),1,[Superius],Superius,Superius
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_3,Credo,CRIM_Mass_0007_3(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_3,Credo,CRIM_Mass_0007_3(3),3,[Tenor],Tenor,Tenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_3,Credo,CRIM_Mass_0007_3(4),4,[Bassus],Bassus,Bassus
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_4,Sanctus,CRIM_Mass_0007_4(1),1,[Superius],Superius,Superius
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_4,Sanctus,CRIM_Mass_0007_4(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_4,Sanctus,CRIM_Mass_0007_4(3),3,[Tenor],Tenor,Tenor
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_4,Sanctus,CRIM_Mass_0007_4(4),4,[Bassus],Bassus,Bassus
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_5,Agnus Dei,CRIM_Mass_0007_5(1),1,[I. Superius],Superius 1,[I.Superius]
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_5,Agnus Dei,CRIM_Mass_0007_5(2),2,[II. Superius ],Superius 2,[II.Superius ]
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_5,Agnus Dei,CRIM_Mass_0007_5(3),3,[Contratenor],Contratenor,[Contratenor]
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_5,Agnus Dei,CRIM_Mass_0007_5(4),4,[Tenor],Tenor,[Tenor]
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_5,Agnus Dei,CRIM_Mass_0007_5(5),5,I. Bassus,Bassus 1,I.Bassus
+Missa Je suis déshéritée (Gombert),CRIM_Mass_0007_5,Agnus Dei,CRIM_Mass_0007_5(6),6,[II. Bassus],Bassus 2,[II.Bassus]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_1,Kyrie,CRIM_Mass_0008_1(1),1,[Superius],Superius,[Superius]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_1,Kyrie,CRIM_Mass_0008_1(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_1,Kyrie,CRIM_Mass_0008_1(3),3,1. Tenor,Tenor 1,I.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_1,Kyrie,CRIM_Mass_0008_1(4),4,2. Tenor,Tenor 2,2.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_1,Kyrie,CRIM_Mass_0008_1(5),5,[Bassus],Bassus,[Bassus]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_2,Gloria,CRIM_Mass_0008_2(1),1,[Superius],Superius,[Superius]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_2,Gloria,CRIM_Mass_0008_2(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_2,Gloria,CRIM_Mass_0008_2(3),3,1. Tenor,Tenor 1,I.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_2,Gloria,CRIM_Mass_0008_2(4),4,2. Tenor,Tenor 2,2.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_2,Gloria,CRIM_Mass_0008_2(5),5,[Bassus],Bassus,[Bassus]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_3,Credo,CRIM_Mass_0008_3(1),1,[Superius],Superius,[Superius]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_3,Credo,CRIM_Mass_0008_3(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_3,Credo,CRIM_Mass_0008_3(3),3,1. Tenor,Tenor 1,I.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_3,Credo,CRIM_Mass_0008_3(4),4,2. Tenor,Tenor 2,2.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_3,Credo,CRIM_Mass_0008_3(5),5,[Bassus],Bassus,[Bassus]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_4,Sanctus,CRIM_Mass_0008_4(1),1,[Superius],Superius,[Superius]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_4,Sanctus,CRIM_Mass_0008_4(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_4,Sanctus,CRIM_Mass_0008_4(3),3,1. Tenor,Tenor 1,I.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_4,Sanctus,CRIM_Mass_0008_4(4),4,2. Tenor,Tenor 2,2.Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_4,Sanctus,CRIM_Mass_0008_4(5),5,[Bassus],Bassus,[Bassus]
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(1),1,I. Superius,Superius 1,I. Superius
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(2),2,II. Superius,Superius 2,II. Superius
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(3),3,1. Contratenor,Contratenor 1,1. Contratenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(4),4,2. Contratenor,Contratenor 2,2. Contratenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(5),5,1. Tenor,Tenor 1,1. Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(6),6,2. Tenor,Tenor 2,2. Tenor
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(7),7,1. Bassus,Bassus 1,1. Bassus
+Missa Quare fremuerunt gentes,CRIM_Mass_0008_5,Agnus Dei,CRIM_Mass_0008_5(8),8,2. Bassus,Bassus 2,2. Bassus
+Missa Tota pulchra es,CRIM_Mass_0009_1,Kyrie,CRIM_Mass_0009_1(1),1,[Tenor 1],Tenor 1,[Tenor 1]
+Missa Tota pulchra es,CRIM_Mass_0009_1,Kyrie,CRIM_Mass_0009_1(2),2,[Tenor 2],Tenor 2,[Tenor 2]
+Missa Tota pulchra es,CRIM_Mass_0009_1,Kyrie,CRIM_Mass_0009_1(3),3,[Tenor 3],Tenor 3,[Tenor 3]
+Missa Tota pulchra es,CRIM_Mass_0009_1,Kyrie,CRIM_Mass_0009_1(4),4,[Bassus],Bassus,[Bassus]
+Missa Tota pulchra es,CRIM_Mass_0009_2,Gloria,CRIM_Mass_0009_2(1),1,[Tenor 1],Tenor 1,[Tenor 1]
+Missa Tota pulchra es,CRIM_Mass_0009_2,Gloria,CRIM_Mass_0009_2(2),2,[Tenor 2],Tenor 2,[Tenor 2]
+Missa Tota pulchra es,CRIM_Mass_0009_2,Gloria,CRIM_Mass_0009_2(3),3,[Tenor 3],Tenor 3,[Tenor 3]
+Missa Tota pulchra es,CRIM_Mass_0009_2,Gloria,CRIM_Mass_0009_2(4),4,[Bassus],Bassus,[Bassus]
+Missa Tota pulchra es,CRIM_Mass_0009_3,Credo,CRIM_Mass_0009_3(1),1,[Tenor 1],Tenor 1,[Tenor 1]
+Missa Tota pulchra es,CRIM_Mass_0009_3,Credo,CRIM_Mass_0009_3(2),2,[Tenor 2],Tenor 2,[Tenor 2]
+Missa Tota pulchra es,CRIM_Mass_0009_3,Credo,CRIM_Mass_0009_3(3),3,[Tenor 3],Tenor 3,[Tenor 3]
+Missa Tota pulchra es,CRIM_Mass_0009_3,Credo,CRIM_Mass_0009_3(4),4,[Bassus],Bassus,[Bassus]
+Missa Tota pulchra es,CRIM_Mass_0009_4,Sanctus,CRIM_Mass_0009_4(1),1,[Tenor 1],Tenor 1,[Tenor 1]
+Missa Tota pulchra es,CRIM_Mass_0009_4,Sanctus,CRIM_Mass_0009_4(2),2,[Tenor 2],Tenor 2,[Tenor 2]
+Missa Tota pulchra es,CRIM_Mass_0009_4,Sanctus,CRIM_Mass_0009_4(3),3,[Tenor 3],Tenor 3,[Tenor 3]
+Missa Tota pulchra es,CRIM_Mass_0009_4,Sanctus,CRIM_Mass_0009_4(4),4,[Bassus],Bassus,[Bassus]
+Missa Tota pulchra es,CRIM_Mass_0009_5,Agnus Dei,CRIM_Mass_0009_5(1),1,[Tenor 1],Tenor 1,[Tenor 1]
+Missa Tota pulchra es,CRIM_Mass_0009_5,Agnus Dei,CRIM_Mass_0009_5(2),2,[Tenor 2],Tenor 2,[Tenor 2]
+Missa Tota pulchra es,CRIM_Mass_0009_5,Agnus Dei,CRIM_Mass_0009_5(3),3,[Tenor 3],Tenor 3,[Tenor 3]
+Missa Tota pulchra es,CRIM_Mass_0009_5,Agnus Dei,CRIM_Mass_0009_5(4),4,[Bassus],Bassus,[Bassus]
+Missa Voulant honneur,CRIM_Mass_0010_1,Kyrie,CRIM_Mass_0010_1(1),1,[Superius],Superius,Superius
+Missa Voulant honneur,CRIM_Mass_0010_1,Kyrie,CRIM_Mass_0010_1(2),2,[Contratenor],Contratenor,Contratenor
+Missa Voulant honneur,CRIM_Mass_0010_1,Kyrie,CRIM_Mass_0010_1(3),3,[Tenor],Tenor,Tenor
+Missa Voulant honneur,CRIM_Mass_0010_1,Kyrie,CRIM_Mass_0010_1(4),4,[Bassus],Bassus,Bassus
+Missa Voulant honneur,CRIM_Mass_0010_2,Gloria,CRIM_Mass_0010_2(1),1,[Superius],Superius,Superius
+Missa Voulant honneur,CRIM_Mass_0010_2,Gloria,CRIM_Mass_0010_2(2),2,[Contratenor],Contratenor,Contratenor
+Missa Voulant honneur,CRIM_Mass_0010_2,Gloria,CRIM_Mass_0010_2(3),3,[Tenor],Tenor,Tenor
+Missa Voulant honneur,CRIM_Mass_0010_2,Gloria,CRIM_Mass_0010_2(4),4,[Bassus],Bassus,Bassus
+Missa Voulant honneur,CRIM_Mass_0010_3,Credo,CRIM_Mass_0010_3(1),1,[Superius],Superius,Superius
+Missa Voulant honneur,CRIM_Mass_0010_3,Credo,CRIM_Mass_0010_3(2),2,[Contratenor],Contratenor,Contratenor
+Missa Voulant honneur,CRIM_Mass_0010_3,Credo,CRIM_Mass_0010_3(3),3,[Tenor],Tenor,Tenor
+Missa Voulant honneur,CRIM_Mass_0010_3,Credo,CRIM_Mass_0010_3(4),4,[Bassus],Bassus,Bassus
+Missa Voulant honneur,CRIM_Mass_0010_4,Sanctus,CRIM_Mass_0010_4(1),1,[Superius],Superius,Superius
+Missa Voulant honneur,CRIM_Mass_0010_4,Sanctus,CRIM_Mass_0010_4(2),2,[Contratenor],Contratenor,Contratenor
+Missa Voulant honneur,CRIM_Mass_0010_4,Sanctus,CRIM_Mass_0010_4(3),3,[Tenor],Tenor,Tenor
+Missa Voulant honneur,CRIM_Mass_0010_4,Sanctus,CRIM_Mass_0010_4(4),4,[Bassus],Bassus,Bassus
+Missa Voulant honneur,CRIM_Mass_0010_5,Agnus Dei,CRIM_Mass_0010_5(1),1,[Superius],Superius,Superius
+Missa Voulant honneur,CRIM_Mass_0010_5,Agnus Dei,CRIM_Mass_0010_5(2),2,[Contratenor],Contratenor,Contratenor
+Missa Voulant honneur,CRIM_Mass_0010_5,Agnus Dei,CRIM_Mass_0010_5(3),3,[Tenor],Tenor,Tenor
+Missa Voulant honneur,CRIM_Mass_0010_5,Agnus Dei,CRIM_Mass_0010_5(4),4,Quinta pars,Quinta pars,Quinta pars
+Missa Voulant honneur,CRIM_Mass_0010_5,Agnus Dei,CRIM_Mass_0010_5(5),5,[Bassus],Bassus,Bassus
+Missa Je n’en puis plus durer,CRIM_Mass_0011_1,Kyrie,CRIM_Mass_0011_1(1),1,[Superius],Superius,Superius
+Missa Je n’en puis plus durer,CRIM_Mass_0011_1,Kyrie,CRIM_Mass_0011_1(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_1,Kyrie,CRIM_Mass_0011_1(3),3,[Tenor],Tenor,Tenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_1,Kyrie,CRIM_Mass_0011_1(4),4,[Bassus],Bassus,Bassus
+Missa Je n’en puis plus durer,CRIM_Mass_0011_2,Gloria,CRIM_Mass_0011_2(1),1,[Superius],Superius,Superius
+Missa Je n’en puis plus durer,CRIM_Mass_0011_2,Gloria,CRIM_Mass_0011_2(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_2,Gloria,CRIM_Mass_0011_2(3),3,[Tenor],Tenor,Tenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_2,Gloria,CRIM_Mass_0011_2(4),4,[Bassus],Bassus,Bassus
+Missa Je n’en puis plus durer,CRIM_Mass_0011_3,Credo,CRIM_Mass_0011_3(1),1,[Superius],Superius,Superius
+Missa Je n’en puis plus durer,CRIM_Mass_0011_3,Credo,CRIM_Mass_0011_3(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_3,Credo,CRIM_Mass_0011_3(3),3,[Tenor],Tenor,Tenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_3,Credo,CRIM_Mass_0011_3(4),4,[Bassus],Bassus,Bassus
+Missa Je n’en puis plus durer,CRIM_Mass_0011_4,Sanctus,CRIM_Mass_0011_4(1),1,[Superius],Superius,Superius
+Missa Je n’en puis plus durer,CRIM_Mass_0011_4,Sanctus,CRIM_Mass_0011_4(2),2,[Contratenor],Contratenor,Contratenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_4,Sanctus,CRIM_Mass_0011_4(3),3,[Tenor],Tenor,Tenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_4,Sanctus,CRIM_Mass_0011_4(4),4,[Bassus],Bassus,Bassus
+Missa Je n’en puis plus durer,CRIM_Mass_0011_5,Agnus Dei,CRIM_Mass_0011_5(1),1,[Superius],Superius,[Superius]
+Missa Je n’en puis plus durer,CRIM_Mass_0011_5,Agnus Dei,CRIM_Mass_0011_5(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Je n’en puis plus durer,CRIM_Mass_0011_5,Agnus Dei,CRIM_Mass_0011_5(3),3,1. Tenor,Tenor 1,1.Tenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_5,Agnus Dei,CRIM_Mass_0011_5(4),4,2. Tenor,Tenor 2,2.Tenor
+Missa Je n’en puis plus durer,CRIM_Mass_0011_5,Agnus Dei,CRIM_Mass_0011_5(5),5,[Bassus],Bassus,[Bassus]
+Missa Si bona suscepimus,CRIM_Mass_0012_1,Kyrie,CRIM_Mass_0012_1(1),1,[Superius],Superius,Superius
+Missa Si bona suscepimus,CRIM_Mass_0012_1,Kyrie,CRIM_Mass_0012_1(2),2,[Contratenor],Contratenor,Contratenor
+Missa Si bona suscepimus,CRIM_Mass_0012_1,Kyrie,CRIM_Mass_0012_1(3),3,[Tenor],Tenor,Tenor
+Missa Si bona suscepimus,CRIM_Mass_0012_1,Kyrie,CRIM_Mass_0012_1(4),4,[Bassus],Bassus,Bassus
+Missa Si bona suscepimus,CRIM_Mass_0012_2,Gloria,CRIM_Mass_0012_2(1),1,[Superius],Superius,Superius
+Missa Si bona suscepimus,CRIM_Mass_0012_2,Gloria,CRIM_Mass_0012_2(2),2,[Contratenor],Contratenor,Contratenor
+Missa Si bona suscepimus,CRIM_Mass_0012_2,Gloria,CRIM_Mass_0012_2(3),3,[Tenor],Tenor,Tenor
+Missa Si bona suscepimus,CRIM_Mass_0012_2,Gloria,CRIM_Mass_0012_2(4),4,[Bassus],Bassus,Bassus
+Missa Si bona suscepimus,CRIM_Mass_0012_3,Credo,CRIM_Mass_0012_3(1),1,[Superius],Superius,Superius
+Missa Si bona suscepimus,CRIM_Mass_0012_3,Credo,CRIM_Mass_0012_3(2),2,[Contratenor],Contratenor,Contratenor
+Missa Si bona suscepimus,CRIM_Mass_0012_3,Credo,CRIM_Mass_0012_3(3),3,[Tenor],Tenor,Tenor
+Missa Si bona suscepimus,CRIM_Mass_0012_3,Credo,CRIM_Mass_0012_3(4),4,[Bassus],Bassus,Bassus
+Missa Si bona suscepimus,CRIM_Mass_0012_4,Sanctus,CRIM_Mass_0012_4(1),1,[Superius],Superius,Superius
+Missa Si bona suscepimus,CRIM_Mass_0012_4,Sanctus,CRIM_Mass_0012_4(2),2,[Contratenor],Contratenor,Contratenor
+Missa Si bona suscepimus,CRIM_Mass_0012_4,Sanctus,CRIM_Mass_0012_4(3),3,[Tenor],Tenor,Tenor
+Missa Si bona suscepimus,CRIM_Mass_0012_4,Sanctus,CRIM_Mass_0012_4(4),4,[Bassus],Bassus,Bassus
+Missa Si bona suscepimus,CRIM_Mass_0012_5,Agnus Dei,CRIM_Mass_0012_5(1),1,[Superius],Superius,Superius
+Missa Si bona suscepimus,CRIM_Mass_0012_5,Agnus Dei,CRIM_Mass_0012_5(2),2,[Contratenor],Contratenor,Contratenor
+Missa Si bona suscepimus,CRIM_Mass_0012_5,Agnus Dei,CRIM_Mass_0012_5(3),3,[Tenor],Tenor,Tenor
+Missa Si bona suscepimus,CRIM_Mass_0012_5,Agnus Dei,CRIM_Mass_0012_5(4),4,[Bassus],Bassus,Bassus
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_1,Kyrie,CRIM_Mass_0013_1(1),1,[Superius],Superius,Superius
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_1,Kyrie,CRIM_Mass_0013_1(2),2,[Contratenor],Contratenor,Contratenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_1,Kyrie,CRIM_Mass_0013_1(3),3,[Tenor],Tenor,Tenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_1,Kyrie,CRIM_Mass_0013_1(4),4,[Bassus],Bassus,Bassus
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_2,Gloria,CRIM_Mass_0013_2(1),1,[Superius],Superius,Superius
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_2,Gloria,CRIM_Mass_0013_2(2),2,[Contratenor],Contratenor,Contratenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_2,Gloria,CRIM_Mass_0013_2(3),3,[Tenor],Tenor,Tenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_2,Gloria,CRIM_Mass_0013_2(4),4,[Bassus],Bassus,Bassus
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_3,Credo,CRIM_Mass_0013_3(1),1,[Superius],Superius,Superius
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_3,Credo,CRIM_Mass_0013_3(2),2,[Contratenor],Contratenor,Contratenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_3,Credo,CRIM_Mass_0013_3(3),3,[Tenor],Tenor,Tenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_3,Credo,CRIM_Mass_0013_3(4),4,[Bassus],Bassus,Bassus
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_4,Sanctus,CRIM_Mass_0013_4(1),1,[Superius],Superius,Superius
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_4,Sanctus,CRIM_Mass_0013_4(2),2,[Contratenor],Contratenor,Contratenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_4,Sanctus,CRIM_Mass_0013_4(3),3,[Tenor],Tenor,Tenor
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_4,Sanctus,CRIM_Mass_0013_4(4),4,[Bassus],Bassus,Bassus
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_5,Agnus Dei,CRIM_Mass_0013_5(1),1,[Superius],Superius,[Superius]
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_5,Agnus Dei,CRIM_Mass_0013_5(2),2,[Contratenor],Contratenor,[Contratenor]
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_5,Agnus Dei,CRIM_Mass_0013_5(3),3,Quinta pars,Quintus,Quinta pars
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_5,Agnus Dei,CRIM_Mass_0013_5(4),4,[Tenor],Tenor,[Tenor]
+Missa Quo abiit dilectus tuus,CRIM_Mass_0013_5,Agnus Dei,CRIM_Mass_0013_5(5),5,[Bassus],Bassus,[Bassus]
+Missa Mente tota (Févin),CRIM_Mass_0014_1,Kyrie,CRIM_Mass_0014_1(1),1,Sup[erius],Superius,Superius
+Missa Mente tota (Févin),CRIM_Mass_0014_1,Kyrie,CRIM_Mass_0014_1(2),2,Altus,Altus,Contratenor
+Missa Mente tota (Févin),CRIM_Mass_0014_1,Kyrie,CRIM_Mass_0014_1(3),3,Tenor,Tenor,Tenor
+Missa Mente tota (Févin),CRIM_Mass_0014_1,Kyrie,CRIM_Mass_0014_1(4),4,Bassus,Bassus,Bassus
+Missa Mente tota (Févin),CRIM_Mass_0014_2,Gloria,CRIM_Mass_0014_2(1),1,Sup[erius],Superius,Superius
+Missa Mente tota (Févin),CRIM_Mass_0014_2,Gloria,CRIM_Mass_0014_2(2),2,Altus,Altus,Contratenor
+Missa Mente tota (Févin),CRIM_Mass_0014_2,Gloria,CRIM_Mass_0014_2(3),3,Tenor,Tenor,Tenor
+Missa Mente tota (Févin),CRIM_Mass_0014_2,Gloria,CRIM_Mass_0014_2(4),4,Bassus,Bassus,Bassus
+Missa Mente tota (Févin),CRIM_Mass_0014_3,Credo,CRIM_Mass_0014_3(1),1,Sup[erius],Superius,Superius
+Missa Mente tota (Févin),CRIM_Mass_0014_3,Credo,CRIM_Mass_0014_3(2),2,Altus,Altus,Contratenor
+Missa Mente tota (Févin),CRIM_Mass_0014_3,Credo,CRIM_Mass_0014_3(3),3,Tenor,Tenor,Tenor
+Missa Mente tota (Févin),CRIM_Mass_0014_3,Credo,CRIM_Mass_0014_3(4),4,Bassus,Bassus,Bassus
+Missa Mente tota (Févin),CRIM_Mass_0014_4,Sanctus,CRIM_Mass_0014_4(1),1,Sup[erius],Superius,Superius
+Missa Mente tota (Févin),CRIM_Mass_0014_4,Sanctus,CRIM_Mass_0014_4(2),2,Altus,Altus,Contratenor
+Missa Mente tota (Févin),CRIM_Mass_0014_4,Sanctus,CRIM_Mass_0014_4(3),3,Tenor,Tenor,Tenor
+Missa Mente tota (Févin),CRIM_Mass_0014_4,Sanctus,CRIM_Mass_0014_4(4),4,Bassus,Bassus,Bassus
+Missa Mente tota (Févin),CRIM_Mass_0014_5,Agnus Dei,CRIM_Mass_0014_5(1),1,Sup[erius],Superius,Superius
+Missa Mente tota (Févin),CRIM_Mass_0014_5,Agnus Dei,CRIM_Mass_0014_5(2),2,Altus,Altus,Contratenor
+Missa Mente tota (Févin),CRIM_Mass_0014_5,Agnus Dei,CRIM_Mass_0014_5(3),3,Tenor,Tenor,Tenor
+Missa Mente tota (Févin),CRIM_Mass_0014_5,Agnus Dei,CRIM_Mass_0014_5(4),4,Bassus,Bassus,Bassus
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_1,Kyrie,CRIM_Mass_0015_1(1),1,[Discantus],Discantus,[Discantus]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_1,Kyrie,CRIM_Mass_0015_1(2),2,[Contratenor 1],Contratenor 1,[Contratenor 1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_1,Kyrie,CRIM_Mass_0015_1(3),3,[Contratenor 2],Contratenor 2,[Contratenor 2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_1,Kyrie,CRIM_Mass_0015_1(4),4,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_1,Kyrie,CRIM_Mass_0015_1(5),5,[Bassus 1],Bassus 1,[Bassus 1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_1,Kyrie,CRIM_Mass_0015_1(6),6,[Bassus 2],Bassus 2,[Bassus 2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_2,Gloria,CRIM_Mass_0015_2(1),1,Discantus,Discantus,Discantus
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_2,Gloria,CRIM_Mass_0015_2(2),2,Contratenor [1],Contratenor 1,Contratenor [1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_2,Gloria,CRIM_Mass_0015_2(3),3,Contratenor [2],Contratenor 2,Contratenor [2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_2,Gloria,CRIM_Mass_0015_2(4),4,Tenor,Tenor,Tenor
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_2,Gloria,CRIM_Mass_0015_2(5),5,Bassus [1],Bassus 1,Bassus [1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_2,Gloria,CRIM_Mass_0015_2(6),6,Bassus [2],Bassus 2,Bassus [2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_3,Credo,CRIM_Mass_0015_3(1),1,[Discantus],Discantus,[Discantus]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_3,Credo,CRIM_Mass_0015_3(2),2,Contratenor [1],Contratenor 1,Contratenor [1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_3,Credo,CRIM_Mass_0015_3(3),3,Contratenor [2],Contratenor 2,Contratenor [2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_3,Credo,CRIM_Mass_0015_3(4),4,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_3,Credo,CRIM_Mass_0015_3(5),5,Bassus [1],Bassus 1,Bassus [1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_3,Credo,CRIM_Mass_0015_3(6),6,Bassus [2],Bassus 2,Bassus [2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_4,Sanctus,CRIM_Mass_0015_4(1),1,Discantus,Discantus,Discantus
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_4,Sanctus,CRIM_Mass_0015_4(2),2,Contratenor [1],Contratenor 1,Contratenor [1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_4,Sanctus,CRIM_Mass_0015_4(3),3,Contratenor [2],Contratenor 2,Contratenor [2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_4,Sanctus,CRIM_Mass_0015_4(4),4,Tenor,Tenor,Tenor
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_4,Sanctus,CRIM_Mass_0015_4(5),5,Bassus [1],Bassus 1,Bassus [1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_4,Sanctus,CRIM_Mass_0015_4(6),6,Bassus [2],Bassus 2,Bassus [2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_5,Agnus Dei,CRIM_Mass_0015_5(1),1,[Discantus],Discantus,[Discantus]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_5,Agnus Dei,CRIM_Mass_0015_5(2),2,[Contratenor 1],Contratenor 1,[Contratenor 1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_5,Agnus Dei,CRIM_Mass_0015_5(3),3,[Contratenor 2],Contratenor 2,[Contratenor 2]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_5,Agnus Dei,CRIM_Mass_0015_5(4),4,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_5,Agnus Dei,CRIM_Mass_0015_5(5),5,[Bassus 1],Bassus 1,[Bassus 1]
+Missa Benedicta es (Palestrina),CRIM_Mass_0015_5,Agnus Dei,CRIM_Mass_0015_5(6),6,[Bassus 2],Bassus 2,[Bassus 2]
+Missa Mente tota (Willaert),CRIM_Mass_0016_1,Kyrie,CRIM_Mass_0016_1(1),1,[Discantus],Discantus,[Discantus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_1,Kyrie,CRIM_Mass_0016_1(2),2,[Contratenor Primus],Contratenor 1,[ContratenorPrimus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_1,Kyrie,CRIM_Mass_0016_1(3),3,Contratenor Secundus,Contratenor 2,ContratenorSecundus
+Missa Mente tota (Willaert),CRIM_Mass_0016_1,Kyrie,CRIM_Mass_0016_1(4),4,Tenor,Tenor,Tenor
+Missa Mente tota (Willaert),CRIM_Mass_0016_1,Kyrie,CRIM_Mass_0016_1(5),5,Vagans,Vagans,Vagans
+Missa Mente tota (Willaert),CRIM_Mass_0016_1,Kyrie,CRIM_Mass_0016_1(6),6,Bassus,Bassus,Bassus
+Missa Mente tota (Willaert),CRIM_Mass_0016_2,Gloria,CRIM_Mass_0016_2(1),1,[Discantus],Discantus,[Discantus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_2,Gloria,CRIM_Mass_0016_2(2),2,[Contratenor Primus],Contratenor 1,[ContratenorPrimus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_2,Gloria,CRIM_Mass_0016_2(3),3,[Contratenor Secundus],Contratenor 2,ContratenorSecundus
+Missa Mente tota (Willaert),CRIM_Mass_0016_2,Gloria,CRIM_Mass_0016_2(4),4,[Tenor],Tenor,Tenor
+Missa Mente tota (Willaert),CRIM_Mass_0016_2,Gloria,CRIM_Mass_0016_2(5),5,[Vagans],Vagans,Vagans
+Missa Mente tota (Willaert),CRIM_Mass_0016_2,Gloria,CRIM_Mass_0016_2(6),6,[Bassus],Bassus,Bassus
+Missa Mente tota (Willaert),CRIM_Mass_0016_3,Credo,CRIM_Mass_0016_3(1),1,[Discantus],Discantus,[Discantus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_3,Credo,CRIM_Mass_0016_3(2),2,[Contratenor Primus],Contratenor 1,[ContratenorPrimus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_3,Credo,CRIM_Mass_0016_3(3),3,[Contratenor Secundus],Contratenor 2,ContratenorSecundus
+Missa Mente tota (Willaert),CRIM_Mass_0016_3,Credo,CRIM_Mass_0016_3(4),4,[Tenor],Tenor,Tenor
+Missa Mente tota (Willaert),CRIM_Mass_0016_3,Credo,CRIM_Mass_0016_3(5),5,[Vagans],Vagans,Vagans
+Missa Mente tota (Willaert),CRIM_Mass_0016_3,Credo,CRIM_Mass_0016_3(6),6,[Bassus],Bassus,Bassus
+Missa Mente tota (Willaert),CRIM_Mass_0016_4,Sanctus,CRIM_Mass_0016_4(1),1,[Discantus],Discantus,[Discantus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_4,Sanctus,CRIM_Mass_0016_4(2),2,[Contratenor Primus],Contratenor 1,[ContratenorPrimus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_4,Sanctus,CRIM_Mass_0016_4(3),3,[Contratenor Secundus],Contratenor 2,ContratenorSecundus
+Missa Mente tota (Willaert),CRIM_Mass_0016_4,Sanctus,CRIM_Mass_0016_4(4),4,Tenor,Tenor,Tenor
+Missa Mente tota (Willaert),CRIM_Mass_0016_4,Sanctus,CRIM_Mass_0016_4(5),5,[Vagans],Vagans,Vagans
+Missa Mente tota (Willaert),CRIM_Mass_0016_4,Sanctus,CRIM_Mass_0016_4(6),6,Bassus,Bassus,Bassus
+Missa Mente tota (Willaert),CRIM_Mass_0016_5,Agnus Dei,CRIM_Mass_0016_5(1),1,[Discantus],Discantus,[Discantus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_5,Agnus Dei,CRIM_Mass_0016_5(2),2,Contratenor [Primus],Contratenor 1,[ContratenorPrimus]
+Missa Mente tota (Willaert),CRIM_Mass_0016_5,Agnus Dei,CRIM_Mass_0016_5(3),3,[Contratenor Secundus],Contratenor 2,ContratenorSecundus
+Missa Mente tota (Willaert),CRIM_Mass_0016_5,Agnus Dei,CRIM_Mass_0016_5(4),4,[Tenor],Tenor,Tenor
+Missa Mente tota (Willaert),CRIM_Mass_0016_5,Agnus Dei,CRIM_Mass_0016_5(5),5,[Vagans],Vagans,Vagans
+Missa Mente tota (Willaert),CRIM_Mass_0016_5,Agnus Dei,CRIM_Mass_0016_5(6),6,[Bassus],Bassus,Bassus
+Missa Baisez moy,CRIM_Mass_0017_1,Kyrie,CRIM_Mass_0017_1(1),1,[Discantus],Discantus,[Discantus]
+Missa Baisez moy,CRIM_Mass_0017_1,Kyrie,CRIM_Mass_0017_1(2),2,Contratenor,Contratenor,Contratenor
+Missa Baisez moy,CRIM_Mass_0017_1,Kyrie,CRIM_Mass_0017_1(3),3,[Tenor resolutio]/Tenor 1,Tenor 1 [resolutio],TenorPrimus
+Missa Baisez moy,CRIM_Mass_0017_1,Kyrie,CRIM_Mass_0017_1(4),4,Tenor/Tenor 2,Tenor 2,TenorSecundus
+Missa Baisez moy,CRIM_Mass_0017_1,Kyrie,CRIM_Mass_0017_1(5),5,Barricanor/Barriton,Bassus,Barricanor
+Missa Baisez moy,CRIM_Mass_0017_2,Gloria,CRIM_Mass_0017_2(1),1,[Discantus],Discantus,[Discantus]
+Missa Baisez moy,CRIM_Mass_0017_2,Gloria,CRIM_Mass_0017_2(2),2,Contra[tenor],Contratenor,Contratenor
+Missa Baisez moy,CRIM_Mass_0017_2,Gloria,CRIM_Mass_0017_2(3),3,[Tenor resolutio],Tenor 1 [resolutio],Tenor[Primus]
+Missa Baisez moy,CRIM_Mass_0017_2,Gloria,CRIM_Mass_0017_2(4),4,Tenor [2],Tenor 2,[TenorSecundus]
+Missa Baisez moy,CRIM_Mass_0017_2,Gloria,CRIM_Mass_0017_2(5),5,Barriton/Bassus,Bassus,Barriton/Bassus
+Missa Baisez moy,CRIM_Mass_0017_3,Credo,CRIM_Mass_0017_3(1),1,[Discantus],Discantus,[Discantus]
+Missa Baisez moy,CRIM_Mass_0017_3,Credo,CRIM_Mass_0017_3(2),2,Contratenor,Contratenor,Contratenor
+Missa Baisez moy,CRIM_Mass_0017_3,Credo,CRIM_Mass_0017_3(3),3,[Tenor resolutio],Tenor 1 [resolutio],Tenor[Primus]
+Missa Baisez moy,CRIM_Mass_0017_3,Credo,CRIM_Mass_0017_3(4),4,Tenor [2],Tenor 2,[TenorSecundus]
+Missa Baisez moy,CRIM_Mass_0017_3,Credo,CRIM_Mass_0017_3(5),5,Barripharius/Barricanor/Bassus,Bassus,Barripharius/Barricanor/Bassus
+Missa Baisez moy,CRIM_Mass_0017_4,Sanctus,CRIM_Mass_0017_4(1),1,[Discantus],Discantus,[Discantus]
+Missa Baisez moy,CRIM_Mass_0017_4,Sanctus,CRIM_Mass_0017_4(2),2,Contratenor,Contratenor,Contratenor
+Missa Baisez moy,CRIM_Mass_0017_4,Sanctus,CRIM_Mass_0017_4(3),3,[Tenor resolutio 1],Tenor 1 [resolutio],Tenor[Primus]
+Missa Baisez moy,CRIM_Mass_0017_4,Sanctus,CRIM_Mass_0017_4(4),4,[Tenor resolutio 2],Tenor 2 [resolutio],[TenorSecundus]
+Missa Baisez moy,CRIM_Mass_0017_4,Sanctus,CRIM_Mass_0017_4(5),5,Tenor [3],Tenor 3,[TenorTertius]
+Missa Baisez moy,CRIM_Mass_0017_4,Sanctus,CRIM_Mass_0017_4(6),6,Bassus,Bassus,Bassus
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(1),1,[Discantus],Discantus,Discantus
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(2),2,Contra[tenor],Contratenor,Contratenor
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(3),3,[Tenor resolutio 1],Tenor 1 [resolutio],Tenor[Primus]
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(4),4,[Tenor resolutio 2],Tenor 2 [resolutio],[TenorSecundus]
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(5),5,[Tenor resolutio 3],Tenor 3 [resolutio],[TenorTertius]
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(6),6,Tenor [4],Tenor 4,[TenorQuartus]
+Missa Baisez moy,CRIM_Mass_0017_5,Agnus Dei,CRIM_Mass_0017_5(7),7,Bassus,Bassus,Bassus
+Missa Benedicta es (Morales),CRIM_Mass_0018_1,Kyrie,CRIM_Mass_0018_1(1),1,[Cantus],Cantus,[Cantus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_1,Kyrie,CRIM_Mass_0018_1(2),2,[Altus],Altus,[Altus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_1,Kyrie,CRIM_Mass_0018_1(3),3,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Morales),CRIM_Mass_0018_1,Kyrie,CRIM_Mass_0018_1(4),4,[Bassus],Bassus,[Bassus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_2,Gloria,CRIM_Mass_0018_2(1),1,[Cantus],Cantus,[Cantus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_2,Gloria,CRIM_Mass_0018_2(2),2,[Altus],Altus,[Altus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_2,Gloria,CRIM_Mass_0018_2(3),3,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Morales),CRIM_Mass_0018_2,Gloria,CRIM_Mass_0018_2(4),4,[Bassus],Bassus,[Bassus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_3,Credo,CRIM_Mass_0018_3(1),1,[Cantus],Cantus,[Cantus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_3,Credo,CRIM_Mass_0018_3(2),2,[Altus],Altus,[Altus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_3,Credo,CRIM_Mass_0018_3(3),3,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Morales),CRIM_Mass_0018_3,Credo,CRIM_Mass_0018_3(4),4,[Bassus],Bassus,[Bassus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_4,Sanctus,CRIM_Mass_0018_4(1),1,[Cantus Primus],Cantus 1,[Cantus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_4,Sanctus,CRIM_Mass_0018_4(2),2,[Cantus Secundus],Cantus 2,[CantusSecundus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_4,Sanctus,CRIM_Mass_0018_4(3),3,Altus Primus,Altus 1,AltusPrimus
+Missa Benedicta es (Morales),CRIM_Mass_0018_4,Sanctus,CRIM_Mass_0018_4(4),4,Altus Secundus,Altus 2,AltusSecundus
+Missa Benedicta es (Morales),CRIM_Mass_0018_4,Sanctus,CRIM_Mass_0018_4(5),5,Tenor,Tenor,Tenor
+Missa Benedicta es (Morales),CRIM_Mass_0018_4,Sanctus,CRIM_Mass_0018_4(6),6,Bazis,Bassus,Bassus
+Missa Benedicta es (Morales),CRIM_Mass_0018_5,Agnus Dei,CRIM_Mass_0018_5(1),1,[Cantus Primus],Cantus 1,[Cantus]
+Missa Benedicta es (Morales),CRIM_Mass_0018_5,Agnus Dei,CRIM_Mass_0018_5(2),2,Cantus Secundus,Cantus 2,CantusSecundus
+Missa Benedicta es (Morales),CRIM_Mass_0018_5,Agnus Dei,CRIM_Mass_0018_5(3),3,Altus,Altus 1,Altus
+Missa Benedicta es (Morales),CRIM_Mass_0018_5,Agnus Dei,CRIM_Mass_0018_5(4),4,Altus Secundus,Altus 2,AltusSecundus
+Missa Benedicta es (Morales),CRIM_Mass_0018_5,Agnus Dei,CRIM_Mass_0018_5(5),5,[Tenor],Tenor,[Tenor]
+Missa Benedicta es (Morales),CRIM_Mass_0018_5,Agnus Dei,CRIM_Mass_0018_5(6),6,[Bassus],Bassus,[Bassus]
+Missa Veni sponsa Christi,CRIM_Mass_0019_1,Kyrie,CRIM_Mass_0019_1(1),1,Cantus,Cantus,Cantus
+Missa Veni sponsa Christi,CRIM_Mass_0019_1,Kyrie,CRIM_Mass_0019_1(2),2,Altus,Altus,Altus
+Missa Veni sponsa Christi,CRIM_Mass_0019_1,Kyrie,CRIM_Mass_0019_1(3),3,Tenor,Tenor,Tenor
+Missa Veni sponsa Christi,CRIM_Mass_0019_1,Kyrie,CRIM_Mass_0019_1(4),4,Bassus,Bassus,Bassus
+Missa Veni sponsa Christi,CRIM_Mass_0019_2,Gloria,CRIM_Mass_0019_2(1),1,Cantus,Cantus,Cantus
+Missa Veni sponsa Christi,CRIM_Mass_0019_2,Gloria,CRIM_Mass_0019_2(2),2,Altus,Altus,Altus
+Missa Veni sponsa Christi,CRIM_Mass_0019_2,Gloria,CRIM_Mass_0019_2(3),3,Tenor,Tenor,Tenor
+Missa Veni sponsa Christi,CRIM_Mass_0019_2,Gloria,CRIM_Mass_0019_2(4),4,Bassus,Bassus,Bassus
+Missa Veni sponsa Christi,CRIM_Mass_0019_3,Credo,CRIM_Mass_0019_3(1),1,Cantus,Cantus,Cantus
+Missa Veni sponsa Christi,CRIM_Mass_0019_3,Credo,CRIM_Mass_0019_3(2),2,Altus,Altus,Altus
+Missa Veni sponsa Christi,CRIM_Mass_0019_3,Credo,CRIM_Mass_0019_3(3),3,Tenor,Tenor,Tenor
+Missa Veni sponsa Christi,CRIM_Mass_0019_3,Credo,CRIM_Mass_0019_3(4),4,Bassus,Bassus,Bassus
+Missa Veni sponsa Christi,CRIM_Mass_0019_4,Sanctus,CRIM_Mass_0019_4(1),1,Cantus,Cantus,Cantus
+Missa Veni sponsa Christi,CRIM_Mass_0019_4,Sanctus,CRIM_Mass_0019_4(2),2,Altus,Altus,Altus
+Missa Veni sponsa Christi,CRIM_Mass_0019_4,Sanctus,CRIM_Mass_0019_4(3),3,Tenor,Tenor,Tenor
+Missa Veni sponsa Christi,CRIM_Mass_0019_4,Sanctus,CRIM_Mass_0019_4(4),4,Bassus,Bassus,Bassus
+Missa Veni sponsa Christi,CRIM_Mass_0019_5,Agnus Dei,CRIM_Mass_0019_5(1),1,Cantus,Cantus,Cantus
+Missa Veni sponsa Christi,CRIM_Mass_0019_5,Agnus Dei,CRIM_Mass_0019_5(2),2,Altus,Altus,Altus
+Missa Veni sponsa Christi,CRIM_Mass_0019_5,Agnus Dei,CRIM_Mass_0019_5(3),3,Quinta Pars,Quintus,Quinta Pars
+Missa Veni sponsa Christi,CRIM_Mass_0019_5,Agnus Dei,CRIM_Mass_0019_5(4),4,Tenor,Tenor,Tenor
+Missa Veni sponsa Christi,CRIM_Mass_0019_5,Agnus Dei,CRIM_Mass_0019_5(5),5,Bassus,Bassus,Bassus
+Missa Susanne un jour,CRIM_Mass_0020_1,Kyrie,CRIM_Mass_0020_1(1),1,[Superius],Superius,[Superius]
+Missa Susanne un jour,CRIM_Mass_0020_1,Kyrie,CRIM_Mass_0020_1(2),2,Contratenor,Contratenor,Contratenor
+Missa Susanne un jour,CRIM_Mass_0020_1,Kyrie,CRIM_Mass_0020_1(3),3,Tenor,Tenor 1,Tenor
+Missa Susanne un jour,CRIM_Mass_0020_1,Kyrie,CRIM_Mass_0020_1(4),4,Tenor Secundus,Tenor 2,TenorSecundus
+Missa Susanne un jour,CRIM_Mass_0020_1,Kyrie,CRIM_Mass_0020_1(5),5,Bassus,Bassus,Bassus
+Missa Susanne un jour,CRIM_Mass_0020_2,Gloria,CRIM_Mass_0020_2(1),1,[Superius],Superius,[Superius]
+Missa Susanne un jour,CRIM_Mass_0020_2,Gloria,CRIM_Mass_0020_2(2),2,Contratenor,Contratenor,Contratenor
+Missa Susanne un jour,CRIM_Mass_0020_2,Gloria,CRIM_Mass_0020_2(3),3,Tenor,Tenor 1,Tenor
+Missa Susanne un jour,CRIM_Mass_0020_2,Gloria,CRIM_Mass_0020_2(4),4,Tenor Secundus,Tenor 2,TenorSecundus
+Missa Susanne un jour,CRIM_Mass_0020_2,Gloria,CRIM_Mass_0020_2(5),5,Bassus,Bassus,Bassus
+Missa Susanne un jour,CRIM_Mass_0020_3,Credo,CRIM_Mass_0020_3(1),1,[Superius],Superius,[Superius]
+Missa Susanne un jour,CRIM_Mass_0020_3,Credo,CRIM_Mass_0020_3(2),2,Contratenor,Contratenor,Contratenor
+Missa Susanne un jour,CRIM_Mass_0020_3,Credo,CRIM_Mass_0020_3(3),3,Tenor,Tenor 1,Tenor
+Missa Susanne un jour,CRIM_Mass_0020_3,Credo,CRIM_Mass_0020_3(4),4,Tenor Secundus,Tenor 2,TenorSecundus
+Missa Susanne un jour,CRIM_Mass_0020_3,Credo,CRIM_Mass_0020_3(5),5,Bassus,Bassus,Bassus
+Missa Susanne un jour,CRIM_Mass_0020_4,Sanctus,CRIM_Mass_0020_4(1),1,[Superius],Superius,[Superius]
+Missa Susanne un jour,CRIM_Mass_0020_4,Sanctus,CRIM_Mass_0020_4(2),2,Contratenor,Contratenor,Contratenor
+Missa Susanne un jour,CRIM_Mass_0020_4,Sanctus,CRIM_Mass_0020_4(3),3,Tenor,Tenor 1,Tenor
+Missa Susanne un jour,CRIM_Mass_0020_4,Sanctus,CRIM_Mass_0020_4(4),4,Tenor Secundus,Tenor 2,TenorSecundus
+Missa Susanne un jour,CRIM_Mass_0020_4,Sanctus,CRIM_Mass_0020_4(5),5,Bassus,Bassus,Bassus
+Missa Susanne un jour,CRIM_Mass_0020_5,Agnus Dei,CRIM_Mass_0020_5(1),1,[Superius],Superius,[Superius]
+Missa Susanne un jour,CRIM_Mass_0020_5,Agnus Dei,CRIM_Mass_0020_5(2),2,Contratenor,Contratenor,Contratenor
+Missa Susanne un jour,CRIM_Mass_0020_5,Agnus Dei,CRIM_Mass_0020_5(3),3,Tenor,Tenor 1,Tenor
+Missa Susanne un jour,CRIM_Mass_0020_5,Agnus Dei,CRIM_Mass_0020_5(4),4,Tenor Secundus,Tenor 2,TenorSecundus
+Missa Susanne un jour,CRIM_Mass_0020_5,Agnus Dei,CRIM_Mass_0020_5(5),5,Bassus,Bassus,Bassus
+Missa super Ite rime dolenti,CRIM_Mass_0021_1,Kyrie,CRIM_Mass_0021_1(1),1,[Discantus],Discantus,[Discantus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_1,Kyrie,CRIM_Mass_0021_1(2),2,[Altus],Altus,[Altus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_1,Kyrie,CRIM_Mass_0021_1(3),3,[Tenor],Tenor,[Tenor]
+Missa super Ite rime dolenti,CRIM_Mass_0021_1,Kyrie,CRIM_Mass_0021_1(4),4,[Quintus],Quintus,[Quintus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_1,Kyrie,CRIM_Mass_0021_1(5),5,[Bassus],Bassus,[Bassus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_2,Gloria,CRIM_Mass_0021_2(1),1,[Discantus],Discantus,[Discantus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_2,Gloria,CRIM_Mass_0021_2(2),2,[Altus],Altus,[Altus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_2,Gloria,CRIM_Mass_0021_2(3),3,[Tenor],Tenor,[Tenor]
+Missa super Ite rime dolenti,CRIM_Mass_0021_2,Gloria,CRIM_Mass_0021_2(4),4,[Quintus],Quintus,[Quintus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_2,Gloria,CRIM_Mass_0021_2(5),5,[Bassus],Bassus,[Bassus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_3,Credo,CRIM_Mass_0021_3(1),1,[Discantus],Discantus,[Discantus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_3,Credo,CRIM_Mass_0021_3(2),2,[Altus],Altus,[Altus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_3,Credo,CRIM_Mass_0021_3(3),3,[Tenor],Tenor,[Tenor]
+Missa super Ite rime dolenti,CRIM_Mass_0021_3,Credo,CRIM_Mass_0021_3(4),4,[Quintus],Quintus,[Quintus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_3,Credo,CRIM_Mass_0021_3(5),5,[Bassus],Bassus,[Bassus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_4,Sanctus,CRIM_Mass_0021_4(1),1,[Discantus],Discantus,[Discantus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_4,Sanctus,CRIM_Mass_0021_4(2),2,[Altus],Altus,[Altus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_4,Sanctus,CRIM_Mass_0021_4(3),3,[Tenor],Tenor,[Tenor]
+Missa super Ite rime dolenti,CRIM_Mass_0021_4,Sanctus,CRIM_Mass_0021_4(4),4,[Quintus],Quintus,[Quintus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_4,Sanctus,CRIM_Mass_0021_4(5),5,[Bassus],Bassus,[Bassus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_5,Agnus Dei,CRIM_Mass_0021_5(1),1,[Discantus],Discantus,[Discantus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_5,Agnus Dei,CRIM_Mass_0021_5(2),2,[Altus],Altus,[Altus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_5,Agnus Dei,CRIM_Mass_0021_5(3),3,[Tenor],Tenor,[Tenor]
+Missa super Ite rime dolenti,CRIM_Mass_0021_5,Agnus Dei,CRIM_Mass_0021_5(4),4,[Quintus],Quintus,[Quintus]
+Missa super Ite rime dolenti,CRIM_Mass_0021_5,Agnus Dei,CRIM_Mass_0021_5(5),5,[Bassus],Bassus,[Bassus]
+Missa Il me souffit,CRIM_Mass_0022_2,Gloria,CRIM_Mass_0022_2(1),1,[Superius],Superius,[Superius]
+Missa Il me souffit,CRIM_Mass_0022_2,Gloria,CRIM_Mass_0022_2(2),2,[Contratenor],Contratenor],[Contratenor]
+Missa Il me souffit,CRIM_Mass_0022_2,Gloria,CRIM_Mass_0022_2(3),3,[Tenor],Tenor,[Tenor]
+Missa Il me souffit,CRIM_Mass_0022_2,Gloria,CRIM_Mass_0022_2(4),4,[Bassus],Bassus,[Bassus]
+Missa Quando lieta sperai,CRIM_Mass_0023_1,Kyrie,CRIM_Mass_0023_1(1),1,Cantus,Cantus,
+Missa Quando lieta sperai,CRIM_Mass_0023_1,Kyrie,CRIM_Mass_0023_1(2),2,Quintus,Quintus,
+Missa Quando lieta sperai,CRIM_Mass_0023_1,Kyrie,CRIM_Mass_0023_1(3),3,Altus,Altus,
+Missa Quando lieta sperai,CRIM_Mass_0023_1,Kyrie,CRIM_Mass_0023_1(4),4,Tenor,Tenor,
+Missa Quando lieta sperai,CRIM_Mass_0023_1,Kyrie,CRIM_Mass_0023_1(5),5,Bassus,Bassus,
+Missa Quando lieta sperai,CRIM_Mass_0023_2,Gloria,CRIM_Mass_0023_2(1),1,Cantus,Cantus,
+Missa Quando lieta sperai,CRIM_Mass_0023_2,Gloria,CRIM_Mass_0023_2(2),2,Quintus,Quintus,
+Missa Quando lieta sperai,CRIM_Mass_0023_2,Gloria,CRIM_Mass_0023_2(3),3,Altus,Altus,
+Missa Quando lieta sperai,CRIM_Mass_0023_2,Gloria,CRIM_Mass_0023_2(4),4,Tenor,Tenor,
+Missa Quando lieta sperai,CRIM_Mass_0023_2,Gloria,CRIM_Mass_0023_2(5),5,Bassus,Bassus,
+Missa Quando lieta sperai,CRIM_Mass_0023_3,Credo,CRIM_Mass_0023_3(1),1,Cantus,Cantus,
+Missa Quando lieta sperai,CRIM_Mass_0023_3,Credo,CRIM_Mass_0023_3(2),2,Quintus,Quintus,
+Missa Quando lieta sperai,CRIM_Mass_0023_3,Credo,CRIM_Mass_0023_3(3),3,Altus,Altus,
+Missa Quando lieta sperai,CRIM_Mass_0023_3,Credo,CRIM_Mass_0023_3(4),4,Tenor,Tenor,
+Missa Quando lieta sperai,CRIM_Mass_0023_3,Credo,CRIM_Mass_0023_3(5),5,Bassus,Bassus,
+Missa Quando lieta sperai,CRIM_Mass_0023_4,Sanctus,CRIM_Mass_0023_4(1),1,Cantus,Cantus,
+Missa Quando lieta sperai,CRIM_Mass_0023_4,Sanctus,CRIM_Mass_0023_4(2),2,Quintus,Quintus,
+Missa Quando lieta sperai,CRIM_Mass_0023_4,Sanctus,CRIM_Mass_0023_4(3),3,Altus,Altus,
+Missa Quando lieta sperai,CRIM_Mass_0023_4,Sanctus,CRIM_Mass_0023_4(4),4,Tenor,Tenor,
+Missa Quando lieta sperai,CRIM_Mass_0023_4,Sanctus,CRIM_Mass_0023_4(5),5,Bassus,Bassus,
+Missa Quando lieta sperai,CRIM_Mass_0023_5,Agnus Dei,CRIM_Mass_0023_5(1),1,Cantus,Cantus,
+Missa Quando lieta sperai,CRIM_Mass_0023_5,Agnus Dei,CRIM_Mass_0023_5(2),2,Quintus,Quintus,
+Missa Quando lieta sperai,CRIM_Mass_0023_5,Agnus Dei,CRIM_Mass_0023_5(3),3,Altus,Altus,
+Missa Quando lieta sperai,CRIM_Mass_0023_5,Agnus Dei,CRIM_Mass_0023_5(4),4,Tenor,Tenor,
+Missa Quando lieta sperai,CRIM_Mass_0023_5,Agnus Dei,CRIM_Mass_0023_5(5),5,Bassus,Bassus,
+Missa Congratulamini mihi,CRIM_Mass_0024_1,Kyrie,CRIM_Mass_0024_1(1),1,Superius 1º,Superius 1,
+Missa Congratulamini mihi,CRIM_Mass_0024_1,Kyrie,CRIM_Mass_0024_1(2),2,Superius 2º,Superius 2,
+Missa Congratulamini mihi,CRIM_Mass_0024_1,Kyrie,CRIM_Mass_0024_1(3),3,Altus,Altus,
+Missa Congratulamini mihi,CRIM_Mass_0024_1,Kyrie,CRIM_Mass_0024_1(4),4,Tenor,Tenor,
+Missa Congratulamini mihi,CRIM_Mass_0024_1,Kyrie,CRIM_Mass_0024_1(5),5,Bassus,Bassus,
+Missa Congratulamini mihi,CRIM_Mass_0024_2,Gloria,CRIM_Mass_0024_2(1),1,Superius 1º,Superius 1,
+Missa Congratulamini mihi,CRIM_Mass_0024_2,Gloria,CRIM_Mass_0024_2(2),2,Superius 2º,Superius 2,
+Missa Congratulamini mihi,CRIM_Mass_0024_2,Gloria,CRIM_Mass_0024_2(3),3,Altus,Altus,
+Missa Congratulamini mihi,CRIM_Mass_0024_2,Gloria,CRIM_Mass_0024_2(4),4,Tenor,Tenor,
+Missa Congratulamini mihi,CRIM_Mass_0024_2,Gloria,CRIM_Mass_0024_2(5),5,Bassus,Bassus,
+Missa Congratulamini mihi,CRIM_Mass_0024_3,Credo,CRIM_Mass_0024_3(1),1,Superius 1º,Superius 1,
+Missa Congratulamini mihi,CRIM_Mass_0024_3,Credo,CRIM_Mass_0024_3(2),2,Superius 2º,Superius 2,
+Missa Congratulamini mihi,CRIM_Mass_0024_3,Credo,CRIM_Mass_0024_3(3),3,Altus,Altus,
+Missa Congratulamini mihi,CRIM_Mass_0024_3,Credo,CRIM_Mass_0024_3(4),4,Tenor,Tenor,
+Missa Congratulamini mihi,CRIM_Mass_0024_3,Credo,CRIM_Mass_0024_3(5),5,Bassus,Bassus,
+Missa Congratulamini mihi,CRIM_Mass_0024_4,Sanctus,CRIM_Mass_0024_4(1),1,Superius 1º,Superius 1,
+Missa Congratulamini mihi,CRIM_Mass_0024_4,Sanctus,CRIM_Mass_0024_4(2),2,Superius 2º,Superius 2,
+Missa Congratulamini mihi,CRIM_Mass_0024_4,Sanctus,CRIM_Mass_0024_4(3),3,Altus,Altus,
+Missa Congratulamini mihi,CRIM_Mass_0024_4,Sanctus,CRIM_Mass_0024_4(4),4,Tenor,Tenor,
+Missa Congratulamini mihi,CRIM_Mass_0024_4,Sanctus,CRIM_Mass_0024_4(5),5,Bassus,Bassus,
+Missa Congratulamini mihi,CRIM_Mass_0024_5,Agnus Dei,CRIM_Mass_0024_5(1),1,Superius 1º,Superius 1,
+Missa Congratulamini mihi,CRIM_Mass_0024_5,Agnus Dei,CRIM_Mass_0024_5(2),2,Superius 2º,Superius 2,
+Missa Congratulamini mihi,CRIM_Mass_0024_5,Agnus Dei,CRIM_Mass_0024_5(3),3,Altus,Altus,
+Missa Congratulamini mihi,CRIM_Mass_0024_5,Agnus Dei,CRIM_Mass_0024_5(4),4,Tenor,Tenor,
+Missa Congratulamini mihi,CRIM_Mass_0024_5,Agnus Dei,CRIM_Mass_0024_5(5),5,Bassus,Bassus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_1,Kyrie,CRIM_Mass_0025_1(1),1,Superius 1º,Superius 1,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_1,Kyrie,CRIM_Mass_0025_1(2),2,Superius 2º,Superius 2,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_1,Kyrie,CRIM_Mass_0025_1(3),3,Altus,Altus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_1,Kyrie,CRIM_Mass_0025_1(4),4,Tenor,Tenor,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_1,Kyrie,CRIM_Mass_0025_1(5),5,Bassus,Bassus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_2,Gloria,CRIM_Mass_0025_2(1),1,Superius 1º,Superius 1,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_2,Gloria,CRIM_Mass_0025_2(2),2,Superius 2º,Superius 2,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_2,Gloria,CRIM_Mass_0025_2(3),3,Altus,Altus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_2,Gloria,CRIM_Mass_0025_2(4),4,Tenor,Tenor,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_2,Gloria,CRIM_Mass_0025_2(5),5,Bassus,Bassus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_3,Credo,CRIM_Mass_0025_3(1),1,Superius 1º,Superius 1,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_3,Credo,CRIM_Mass_0025_3(2),2,Superius 2º,Superius 2,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_3,Credo,CRIM_Mass_0025_3(3),3,Altus,Altus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_3,Credo,CRIM_Mass_0025_3(4),4,Tenor,Tenor,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_3,Credo,CRIM_Mass_0025_3(5),5,Bassus,Bassus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_4,Sanctus,CRIM_Mass_0025_4(1),1,Superius 1º,Superius 1,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_4,Sanctus,CRIM_Mass_0025_4(2),2,Superius 2º,Superius 2,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_4,Sanctus,CRIM_Mass_0025_4(3),3,Altus,Altus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_4,Sanctus,CRIM_Mass_0025_4(4),4,Tenor,Tenor,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_4,Sanctus,CRIM_Mass_0025_4(5),5,Bassus,Bassus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_5,Agnus Dei,CRIM_Mass_0025_5(1),1,Superius 1º,Superius 1,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_5,Agnus Dei,CRIM_Mass_0025_5(2),2,Superius 2º,Superius 2,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_5,Agnus Dei,CRIM_Mass_0025_5(3),3,Altus,Altus,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_5,Agnus Dei,CRIM_Mass_0025_5(4),4,Tenor,Tenor,
+Missa Sancta et immaculata virginitas,CRIM_Mass_0025_5,Agnus Dei,CRIM_Mass_0025_5(5),5,Bassus,Bassus,
+Missa Super flumina,CRIM_Mass_0026_1,Kyrie,CRIM_Mass_0026_1(1),1,Superius,Superius,
+Missa Super flumina,CRIM_Mass_0026_1,Kyrie,CRIM_Mass_0026_1(2),2,Altus 1º,Altus 1,
+Missa Super flumina,CRIM_Mass_0026_1,Kyrie,CRIM_Mass_0026_1(3),3,Altus 2º,Altus 2,
+Missa Super flumina,CRIM_Mass_0026_1,Kyrie,CRIM_Mass_0026_1(4),4,Tenor,Tenor,
+Missa Super flumina,CRIM_Mass_0026_1,Kyrie,CRIM_Mass_0026_1(5),5,Bassus,Bassus,
+Missa Super flumina,CRIM_Mass_0026_2,Gloria,CRIM_Mass_0026_2(1),1,Superius,Superius,
+Missa Super flumina,CRIM_Mass_0026_2,Gloria,CRIM_Mass_0026_2(2),2,Altus 1º,Altus 1,
+Missa Super flumina,CRIM_Mass_0026_2,Gloria,CRIM_Mass_0026_2(3),3,Altus 2º,Altus 2,
+Missa Super flumina,CRIM_Mass_0026_2,Gloria,CRIM_Mass_0026_2(4),4,Tenor,Tenor,
+Missa Super flumina,CRIM_Mass_0026_2,Gloria,CRIM_Mass_0026_2(5),5,Bassus,Bassus,
+Missa Super flumina,CRIM_Mass_0026_3,Credo,CRIM_Mass_0026_3(1),1,Superius,Superius,
+Missa Super flumina,CRIM_Mass_0026_3,Credo,CRIM_Mass_0026_3(2),2,Altus 1º,Altus 1,
+Missa Super flumina,CRIM_Mass_0026_3,Credo,CRIM_Mass_0026_3(3),3,Altus 2º,Altus 2,
+Missa Super flumina,CRIM_Mass_0026_3,Credo,CRIM_Mass_0026_3(4),4,Tenor,Tenor,
+Missa Super flumina,CRIM_Mass_0026_3,Credo,CRIM_Mass_0026_3(5),5,Bassus,Bassus,
+Missa Super flumina,CRIM_Mass_0026_4,Sanctus,CRIM_Mass_0026_4(1),1,Superius,Superius,
+Missa Super flumina,CRIM_Mass_0026_4,Sanctus,CRIM_Mass_0026_4(2),2,Altus 1º,Altus 1,
+Missa Super flumina,CRIM_Mass_0026_4,Sanctus,CRIM_Mass_0026_4(3),3,Altus 2º,Altus 2,
+Missa Super flumina,CRIM_Mass_0026_4,Sanctus,CRIM_Mass_0026_4(4),4,Tenor,Tenor,
+Missa Super flumina,CRIM_Mass_0026_4,Sanctus,CRIM_Mass_0026_4(5),5,Bassus,Bassus,
+Missa Super flumina,CRIM_Mass_0026_5,Agnus Dei,CRIM_Mass_0026_5(1),1,Superius 1º,Superius 1,
+Missa Super flumina,CRIM_Mass_0026_5,Agnus Dei,CRIM_Mass_0026_5(2),2,Superius 2º,Superius 2,
+Missa Super flumina,CRIM_Mass_0026_5,Agnus Dei,CRIM_Mass_0026_5(3),3,Altus 1º,Altus 1,
+Missa Super flumina,CRIM_Mass_0026_5,Agnus Dei,CRIM_Mass_0026_5(4),4,Altus 2º,Altus 2,
+Missa Super flumina,CRIM_Mass_0026_5,Agnus Dei,CRIM_Mass_0026_5(5),5,Tenor,Tenor,
+Missa Super flumina,CRIM_Mass_0026_5,Agnus Dei,CRIM_Mass_0026_5(6),6,Bassus,Bassus,
+Missa In te Domine Speravi,CRIM_Mass_0028_1,Kyrie,CRIM_Mass_0028_1(1),1,Superius I,Superius 1,
+Missa In te Domine Speravi,CRIM_Mass_0028_1,Kyrie,CRIM_Mass_0028_1(2),2,Superius II,Superius 2,
+Missa In te Domine Speravi,CRIM_Mass_0028_1,Kyrie,CRIM_Mass_0028_1(3),3,Contratenor,Contratenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_1,Kyrie,CRIM_Mass_0028_1(4),4,Tenor,Tenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_1,Kyrie,CRIM_Mass_0028_1(5),5,Bassus,Bassus,
+Missa In te Domine Speravi,CRIM_Mass_0028_2,Gloria,CRIM_Mass_0028_2(1),1,Superius I,Superius 1,
+Missa In te Domine Speravi,CRIM_Mass_0028_2,Gloria,CRIM_Mass_0028_2(2),2,Superius II,Superius 2,
+Missa In te Domine Speravi,CRIM_Mass_0028_2,Gloria,CRIM_Mass_0028_2(3),3,Contratenor,Contratenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_2,Gloria,CRIM_Mass_0028_2(4),4,Tenor,Tenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_2,Gloria,CRIM_Mass_0028_2(5),5,Bassus,Bassus,
+Missa In te Domine Speravi,CRIM_Mass_0028_3,Credo,CRIM_Mass_0028_3(1),1,Superius I,Superius 1,
+Missa In te Domine Speravi,CRIM_Mass_0028_3,Credo,CRIM_Mass_0028_3(2),2,Superius II,Superius 2,
+Missa In te Domine Speravi,CRIM_Mass_0028_3,Credo,CRIM_Mass_0028_3(3),3,Contratenor,Contratenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_3,Credo,CRIM_Mass_0028_3(4),4,Tenor,Tenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_3,Credo,CRIM_Mass_0028_3(5),5,Bassus,Bassus,
+Missa In te Domine Speravi,CRIM_Mass_0028_4,Sanctus,CRIM_Mass_0028_4(1),1,Superius I,Superius 1,
+Missa In te Domine Speravi,CRIM_Mass_0028_4,Sanctus,CRIM_Mass_0028_4(2),2,Superius II,Superius 2,
+Missa In te Domine Speravi,CRIM_Mass_0028_4,Sanctus,CRIM_Mass_0028_4(3),3,Contratenor,Contratenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_4,Sanctus,CRIM_Mass_0028_4(4),4,Tenor,Tenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_4,Sanctus,CRIM_Mass_0028_4(5),5,Bassus,Bassus,
+Missa In te Domine Speravi,CRIM_Mass_0028_5,Agnus Dei,CRIM_Mass_0028_5(1),1,Superius I,Superius 1,
+Missa In te Domine Speravi,CRIM_Mass_0028_5,Agnus Dei,CRIM_Mass_0028_5(2),2,Superius II,Superius 2,
+Missa In te Domine Speravi,CRIM_Mass_0028_5,Agnus Dei,CRIM_Mass_0028_5(3),3,Superius III,Superius 3,
+Missa In te Domine Speravi,CRIM_Mass_0028_5,Agnus Dei,CRIM_Mass_0028_5(4),4,Contratenor,Contratenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_5,Agnus Dei,CRIM_Mass_0028_5(5),5,Tenor,Tenor,
+Missa In te Domine Speravi,CRIM_Mass_0028_5,Agnus Dei,CRIM_Mass_0028_5(6),6,Bassus,Bassus,
+Missa Missa Benedicta es,CRIM_Mass_0029_1,Kyrie,CRIM_Mass_0029_1(1),1,Superius,Superius,
+Missa Missa Benedicta es,CRIM_Mass_0029_1,Kyrie,CRIM_Mass_0029_1(2),2,Contratenor,Contratenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_1,Kyrie,CRIM_Mass_0029_1(3),3,Tenor,Tenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_1,Kyrie,CRIM_Mass_0029_1(4),4,Quintus,Quintus,
+Missa Missa Benedicta es,CRIM_Mass_0029_1,Kyrie,CRIM_Mass_0029_1(5),5,Bassus,Bassus,
+Missa Missa Benedicta es,CRIM_Mass_0029_2,Gloria,CRIM_Mass_0029_2(1),1,Superius,Superius,
+Missa Missa Benedicta es,CRIM_Mass_0029_2,Gloria,CRIM_Mass_0029_2(2),2,Contratenor,Contratenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_2,Gloria,CRIM_Mass_0029_2(3),3,Tenor,Tenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_2,Gloria,CRIM_Mass_0029_2(4),4,Quintus,Quintus,
+Missa Missa Benedicta es,CRIM_Mass_0029_2,Gloria,CRIM_Mass_0029_2(5),5,Bassus,Bassus,
+Missa Missa Benedicta es,CRIM_Mass_0029_3,Credo,CRIM_Mass_0029_3(1),1,Superius,Superius,
+Missa Missa Benedicta es,CRIM_Mass_0029_3,Credo,CRIM_Mass_0029_3(2),2,Contratenor,Contratenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_3,Credo,CRIM_Mass_0029_3(3),3,Tenor,Tenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_3,Credo,CRIM_Mass_0029_3(4),4,Quintus,Quintus,
+Missa Missa Benedicta es,CRIM_Mass_0029_3,Credo,CRIM_Mass_0029_3(5),5,Bassus,Bassus,
+Missa Missa Benedicta es,CRIM_Mass_0029_4,Sanctus,CRIM_Mass_0029_4(1),1,Superius,Superius,
+Missa Missa Benedicta es,CRIM_Mass_0029_4,Sanctus,CRIM_Mass_0029_4(2),2,Contratenor,Contratenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_4,Sanctus,CRIM_Mass_0029_4(3),3,Tenor,Tenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_4,Sanctus,CRIM_Mass_0029_4(4),4,Quintus,Quintus,
+Missa Missa Benedicta es,CRIM_Mass_0029_4,Sanctus,CRIM_Mass_0029_4(5),5,Bassus,Bassus,
+Missa Missa Benedicta es,CRIM_Mass_0029_5,Agnus Dei,CRIM_Mass_0029_5(1),1,Superius,Superius,
+Missa Missa Benedicta es,CRIM_Mass_0029_5,Agnus Dei,CRIM_Mass_0029_5(2),2,Contratenor,Contratenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_5,Agnus Dei,CRIM_Mass_0029_5(3),3,Sextus,Sextus,
+Missa Missa Benedicta es,CRIM_Mass_0029_5,Agnus Dei,CRIM_Mass_0029_5(4),4,Tenor,Tenor,
+Missa Missa Benedicta es,CRIM_Mass_0029_5,Agnus Dei,CRIM_Mass_0029_5(5),5,Quintus,Quintus,
+Missa Missa Benedicta es,CRIM_Mass_0029_5,Agnus Dei,CRIM_Mass_0029_5(6),6,Bassus,Bassus,
+Missa Hic est vere martire,CRIM_Mass_0030_1,Kyrie,CRIM_Mass_0030_1(1),1,Superius,Superius,
+Missa Hic est vere martire,CRIM_Mass_0030_1,Kyrie,CRIM_Mass_0030_1(2),2,Contratenor,Contratenor,
+Missa Hic est vere martire,CRIM_Mass_0030_1,Kyrie,CRIM_Mass_0030_1(3),3,Tenor,Tenor,
+Missa Hic est vere martire,CRIM_Mass_0030_1,Kyrie,CRIM_Mass_0030_1(4),4,Bassus,Bassus,
+Missa Hic est vere martire,CRIM_Mass_0030_2,Gloria,CRIM_Mass_0030_2(1),1,Superius,Superius,
+Missa Hic est vere martire,CRIM_Mass_0030_2,Gloria,CRIM_Mass_0030_2(2),2,Contratenor,Contratenor,
+Missa Hic est vere martire,CRIM_Mass_0030_2,Gloria,CRIM_Mass_0030_2(3),3,Tenor,Tenor,
+Missa Hic est vere martire,CRIM_Mass_0030_2,Gloria,CRIM_Mass_0030_2(4),4,Bassus,Bassus,
+Missa Hic est vere martire,CRIM_Mass_0030_3,Credo,CRIM_Mass_0030_3(1),1,Superius,Superius,
+Missa Hic est vere martire,CRIM_Mass_0030_3,Credo,CRIM_Mass_0030_3(2),2,Contratenor,Contratenor,
+Missa Hic est vere martire,CRIM_Mass_0030_3,Credo,CRIM_Mass_0030_3(3),3,Tenor,Tenor,
+Missa Hic est vere martire,CRIM_Mass_0030_3,Credo,CRIM_Mass_0030_3(4),4,Bassus,Bassus,
+Missa Hic est vere martire,CRIM_Mass_0030_4,Sanctus,CRIM_Mass_0030_4(1),1,Superius,Superius,
+Missa Hic est vere martire,CRIM_Mass_0030_4,Sanctus,CRIM_Mass_0030_4(2),2,Contratenor,Contratenor,
+Missa Hic est vere martire,CRIM_Mass_0030_4,Sanctus,CRIM_Mass_0030_4(3),3,Tenor,Tenor,
+Missa Hic est vere martire,CRIM_Mass_0030_4,Sanctus,CRIM_Mass_0030_4(4),4,Bassus,Bassus,
+Missa Hic est vere martire,CRIM_Mass_0030_5,Agnus Dei,CRIM_Mass_0030_5(1),1,Superius,Superius,
+Missa Hic est vere martire,CRIM_Mass_0030_5,Agnus Dei,CRIM_Mass_0030_5(2),2,Contratenor,Contratenor,
+Missa Hic est vere martire,CRIM_Mass_0030_5,Agnus Dei,CRIM_Mass_0030_5(3),3,Quintus,Quintus,
+Missa Hic est vere martire,CRIM_Mass_0030_5,Agnus Dei,CRIM_Mass_0030_5(4),4,Tenor,Tenor,
+Missa Hic est vere martire,CRIM_Mass_0030_5,Agnus Dei,CRIM_Mass_0030_5(5),5,Bassus,Bassus,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_1,Kyrie,CRIM_Mass_0031_1(1),1,[Superius],Superius,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_1,Kyrie,CRIM_Mass_0031_1(2),2,[Contratenor],Contratenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_1,Kyrie,CRIM_Mass_0031_1(3),3,Tenor,Tenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_1,Kyrie,CRIM_Mass_0031_1(4),4,Bassus,Bassus,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_2,Gloria,CRIM_Mass_0031_2(1),1,[Superius],Superius,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_2,Gloria,CRIM_Mass_0031_2(2),2,[Contratenor],Contratenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_2,Gloria,CRIM_Mass_0031_2(3),3,Tenor,Tenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_2,Gloria,CRIM_Mass_0031_2(4),4,Bassus,Bassus,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_3,Credo,CRIM_Mass_0031_3(1),1,[Superius],Superius,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_3,Credo,CRIM_Mass_0031_3(2),2,[Contratenor],Contratenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_3,Credo,CRIM_Mass_0031_3(3),3,Tenor,Tenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_3,Credo,CRIM_Mass_0031_3(4),4,Bassus,Bassus,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_4,Sanctus,CRIM_Mass_0031_4(1),1,[Superius],Superius,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_4,Sanctus,CRIM_Mass_0031_4(2),2,[Contratenor],Contratenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_4,Sanctus,CRIM_Mass_0031_4(3),3,Tenor,Tenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_4,Sanctus,CRIM_Mass_0031_4(4),4,Bassus,Bassus,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_5,Agnus Dei,CRIM_Mass_0031_5(1),1,[Superius],Superius 1,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_5,Agnus Dei,CRIM_Mass_0031_5(2),2,2m. Superius,Superius 2,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_5,Agnus Dei,CRIM_Mass_0031_5(3),3,[Contratenor],Contratenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_5,Agnus Dei,CRIM_Mass_0031_5(4),4,Tenor,Tenor,
+Missa Quandiu vivam soli Deo serviam,CRIM_Mass_0031_5,Agnus Dei,CRIM_Mass_0031_5(5),5,Bassus,Bassus,
+Missa Susanne un jour,CRIM_Mass_0032_1,Kyrie,CRIM_Mass_0032_1(1),1,[Superius],Superius,
+Missa Susanne un jour,CRIM_Mass_0032_1,Kyrie,CRIM_Mass_0032_1(2),2,[Altus],Altus,
+Missa Susanne un jour,CRIM_Mass_0032_1,Kyrie,CRIM_Mass_0032_1(3),3,[Tenor],Tenor,
+Missa Susanne un jour,CRIM_Mass_0032_1,Kyrie,CRIM_Mass_0032_1(4),4,[Bassus],Bassus,
+Missa Susanne un jour,CRIM_Mass_0032_2,Gloria,CRIM_Mass_0032_2(1),1,[Superius],Superius,
+Missa Susanne un jour,CRIM_Mass_0032_2,Gloria,CRIM_Mass_0032_2(2),2,[Altus],Altus,
+Missa Susanne un jour,CRIM_Mass_0032_2,Gloria,CRIM_Mass_0032_2(3),3,[Tenor],Tenor,
+Missa Susanne un jour,CRIM_Mass_0032_2,Gloria,CRIM_Mass_0032_2(4),4,[Bassus],Bassus,
+Missa Susanne un jour,CRIM_Mass_0032_3,Credo,CRIM_Mass_0032_3(1),1,[Superius],Superius,
+Missa Susanne un jour,CRIM_Mass_0032_3,Credo,CRIM_Mass_0032_3(2),2,[Altus],Altus,
+Missa Susanne un jour,CRIM_Mass_0032_3,Credo,CRIM_Mass_0032_3(3),3,[Tenor],Tenor,
+Missa Susanne un jour,CRIM_Mass_0032_3,Credo,CRIM_Mass_0032_3(4),4,[Bassus],Bassus,
+Missa Susanne un jour,CRIM_Mass_0032_4,Sanctus,CRIM_Mass_0032_4(1),1,[Superius],Superius,
+Missa Susanne un jour,CRIM_Mass_0032_4,Sanctus,CRIM_Mass_0032_4(2),2,[Altus],Altus,
+Missa Susanne un jour,CRIM_Mass_0032_4,Sanctus,CRIM_Mass_0032_4(3),3,[Tenor],Tenor,
+Missa Susanne un jour,CRIM_Mass_0032_4,Sanctus,CRIM_Mass_0032_4(4),4,[Bassus],Bassus,
+Missa Susanne un jour,CRIM_Mass_0032_5,Agnus Dei,CRIM_Mass_0032_5(1),1,[Superius],Superius,
+Missa Susanne un jour,CRIM_Mass_0032_5,Agnus Dei,CRIM_Mass_0032_5(2),2,[Altus],Altus,
+Missa Susanne un jour,CRIM_Mass_0032_5,Agnus Dei,CRIM_Mass_0032_5(3),3,[Tenor],Tenor,
+Missa Susanne un jour,CRIM_Mass_0032_5,Agnus Dei,CRIM_Mass_0032_5(4),4,[Bassus],Bassus,
+Missa Doulce memoire,CRIM_Mass_0033_1,Kyrie,CRIM_Mass_0033_1(1),1,[Superius],Superius,
+Missa Doulce memoire,CRIM_Mass_0033_1,Kyrie,CRIM_Mass_0033_1(2),2,[Altus],Altus,
+Missa Doulce memoire,CRIM_Mass_0033_1,Kyrie,CRIM_Mass_0033_1(3),3,[Tenor],Tenor,
+Missa Doulce memoire,CRIM_Mass_0033_1,Kyrie,CRIM_Mass_0033_1(4),4,[Bassus],Bassus,
+Missa Doulce memoire,CRIM_Mass_0033_2,Gloria,CRIM_Mass_0033_2(1),1,[Superius],Superius,
+Missa Doulce memoire,CRIM_Mass_0033_2,Gloria,CRIM_Mass_0033_2(2),2,[Altus],Altus,
+Missa Doulce memoire,CRIM_Mass_0033_2,Gloria,CRIM_Mass_0033_2(3),3,[Tenor],Tenor,
+Missa Doulce memoire,CRIM_Mass_0033_2,Gloria,CRIM_Mass_0033_2(4),4,[Bassus],Bassus,
+Missa Doulce memoire,CRIM_Mass_0033_3,Credo,CRIM_Mass_0033_3(1),1,[Superius],Superius,
+Missa Doulce memoire,CRIM_Mass_0033_3,Credo,CRIM_Mass_0033_3(2),2,[Altus],Altus,
+Missa Doulce memoire,CRIM_Mass_0033_3,Credo,CRIM_Mass_0033_3(3),3,[Tenor],Tenor,
+Missa Doulce memoire,CRIM_Mass_0033_3,Credo,CRIM_Mass_0033_3(4),4,[Bassus],Bassus,
+Missa Doulce memoire,CRIM_Mass_0033_5,Agnus Dei,CRIM_Mass_0033_5(1),1,[Superius],Superius,
+Missa Doulce memoire,CRIM_Mass_0033_5,Agnus Dei,CRIM_Mass_0033_5(2),2,[Altus],Altus,
+Missa Doulce memoire,CRIM_Mass_0033_5,Agnus Dei,CRIM_Mass_0033_5(3),3,[Tenor],Tenor,
+Missa Doulce memoire,CRIM_Mass_0033_5,Agnus Dei,CRIM_Mass_0033_5(4),4,[Bassus],Bassus,
+,CRIM_Model_0001,Vidi speciosam,CRIM_Model_0001(1),1,Superius,Superius,Superius
+,CRIM_Model_0001,Vidi speciosam,CRIM_Model_0001(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0001,Vidi speciosam,CRIM_Model_0001(3),3,Primus Tenor,Tenor 1,PrimusTenor
+,CRIM_Model_0001,Vidi speciosam,CRIM_Model_0001(4),4,Secundus Tenor,Tenor 2,SecundusTenor
+,CRIM_Model_0001,Vidi speciosam,CRIM_Model_0001(5),5,Bassus,Bassus,Bassus
+,CRIM_Model_0002,O gente brunette,CRIM_Model_0002(1),1,Superius,Superius,Superius
+,CRIM_Model_0002,O gente brunette,CRIM_Model_0002(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0002,O gente brunette,CRIM_Model_0002(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0002,O gente brunette,CRIM_Model_0002(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0003,Missa IX (Cum iubilo) - Kyrie,CRIM_Model_0003(1),1,[Cantus],Cantus,
+,CRIM_Model_0004,Missa IX (Cum iubilo) - Gloria,CRIM_Model_0004(1),1,[Cantus],Cantus,
+,CRIM_Model_0005,Credo I,CRIM_Model_0005(1),1,[Cantus],Cantus,
+,CRIM_Model_0006,Missa IX (Cum iubilo) - Sanctus,CRIM_Model_0006(1),1,[Cantus],Cantus,
+,CRIM_Model_0007,Missa IX (Cum iubilo) - Agnus Dei,CRIM_Model_0007(1),1,[Cantus],Cantus,
+,CRIM_Model_0008,Ave Maria,CRIM_Model_0008(1),1,[Superius],Superius,[Superius]
+,CRIM_Model_0008,Ave Maria,CRIM_Model_0008(2),2,Altus,Altus,Altus
+,CRIM_Model_0008,Ave Maria,CRIM_Model_0008(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0008,Ave Maria,CRIM_Model_0008(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0009,Je suis déshéritée,CRIM_Model_0009(1),1,Superius,Superius,Superius
+,CRIM_Model_0009,Je suis déshéritée,CRIM_Model_0009(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0009,Je suis déshéritée,CRIM_Model_0009(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0009,Je suis déshéritée,CRIM_Model_0009(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0010,Quare fremuerunt gentes,CRIM_Model_0010(1),1,Superius,Superius,Superius
+,CRIM_Model_0010,Quare fremuerunt gentes,CRIM_Model_0010(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0010,Quare fremuerunt gentes,CRIM_Model_0010(3),3,Primus Tenor,Tenor 1,PrimusTenor
+,CRIM_Model_0010,Quare fremuerunt gentes,CRIM_Model_0010(4),4,Secundus Tenor,Tenor 2,SecundusTenor
+,CRIM_Model_0010,Quare fremuerunt gentes,CRIM_Model_0010(5),5,Bassus,Bassus,[Bassus]
+,CRIM_Model_0011,Tota pulchra es,CRIM_Model_0011(1),1,Superius,Superius,Superius
+,CRIM_Model_0011,Tota pulchra es,CRIM_Model_0011(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0011,Tota pulchra es,CRIM_Model_0011(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0011,Tota pulchra es,CRIM_Model_0011(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0012,Voulant honneur,CRIM_Model_0012(1),1,Superius,Superius,Superius
+,CRIM_Model_0012,Voulant honneur,CRIM_Model_0012(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0012,Voulant honneur,CRIM_Model_0012(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0012,Voulant honneur,CRIM_Model_0012(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0013,Je n’en puis plus durer,CRIM_Model_0013(1),1,Superius,Superius,Superius
+,CRIM_Model_0013,Je n’en puis plus durer,CRIM_Model_0013(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0013,Je n’en puis plus durer,CRIM_Model_0013(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0013,Je n’en puis plus durer,CRIM_Model_0013(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0014,Si bona suscepimus,CRIM_Model_0014(1),1,Discantus,Discantus,Discantus
+,CRIM_Model_0014,Si bona suscepimus,CRIM_Model_0014(2),2,Altus,Altus,Altus
+,CRIM_Model_0014,Si bona suscepimus,CRIM_Model_0014(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0014,Si bona suscepimus,CRIM_Model_0014(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0015,Quo abiit dilectus tuus,CRIM_Model_0015(1),1,Superior,Superius,Superior
+,CRIM_Model_0015,Quo abiit dilectus tuus,CRIM_Model_0015(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0015,Quo abiit dilectus tuus,CRIM_Model_0015(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0015,Quo abiit dilectus tuus,CRIM_Model_0015(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0016,Mente Tota (from Vultuum tuum),CRIM_Model_0016(1),1,Discantus,Discantus,Discantus
+,CRIM_Model_0016,Mente Tota (from Vultuum tuum),CRIM_Model_0016(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0016,Mente Tota (from Vultuum tuum),CRIM_Model_0016(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0016,Mente Tota (from Vultuum tuum),CRIM_Model_0016(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0017,Benedicta es,CRIM_Model_0017(1),1,[Discantus],Discantus,[Discantus]
+,CRIM_Model_0017,Benedicta es,CRIM_Model_0017(2),2,[Contratenor],Contratenor,[Contratenor]
+,CRIM_Model_0017,Benedicta es,CRIM_Model_0017(3),3,[Tenor],Tenor,[Tenor]
+,CRIM_Model_0017,Benedicta es,CRIM_Model_0017(4),4,[Quinta vox],Quintus,[Quinta Vox]
+,CRIM_Model_0017,Benedicta es,CRIM_Model_0017(5),5,[Sexta vox],Sextus,[Sexta Vox]
+,CRIM_Model_0017,Benedicta es,CRIM_Model_0017(6),6,[Bassus],Bassus,[Bassus]
+,CRIM_Model_0018,Baisez moy,CRIM_Model_0018(1),1,Superius,Superius,Superius
+,CRIM_Model_0018,Baisez moy,CRIM_Model_0018(2),2,Contra[tenor],Contratenor,Contratenor
+,CRIM_Model_0018,Baisez moy,CRIM_Model_0018(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0018,Baisez moy,CRIM_Model_0018(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0018,Baisez moy,CRIM_Model_0018(5),5,Quinta Pars,Quinta Pars,Quinta Pars
+,CRIM_Model_0018,Baisez moy,CRIM_Model_0018(6),6,Sexta Pars,Sexta Pars,Sexta Pars
+,CRIM_Model_0019,Veni sponsa Christi,CRIM_Model_0019(1),1,Cantus,Cantus,Cantus
+,CRIM_Model_0019,Veni sponsa Christi,CRIM_Model_0019(2),2,Altus,Altus,Altus
+,CRIM_Model_0019,Veni sponsa Christi,CRIM_Model_0019(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0019,Veni sponsa Christi,CRIM_Model_0019(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0020,Susanne un jour,CRIM_Model_0020(1),1,Superius,Superius,Superius
+,CRIM_Model_0020,Susanne un jour,CRIM_Model_0020(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0020,Susanne un jour,CRIM_Model_0020(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0020,Susanne un jour,CRIM_Model_0020(4),4,Quinta Pars,Quintus,QuintaPars
+,CRIM_Model_0020,Susanne un jour,CRIM_Model_0020(5),5,Bassus,Bassus,Bassus
+,CRIM_Model_0021,Benedicta es,CRIM_Model_0021(1),1,Sup[erius],Superius,Superius
+,CRIM_Model_0021,Benedicta es,CRIM_Model_0021(2),2,Altus,Altus,Altus
+,CRIM_Model_0021,Benedicta es,CRIM_Model_0021(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0021,Benedicta es,CRIM_Model_0021(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0022,Benedicta es,CRIM_Model_0022(1),1,[Cantus],Cantus,[Cantus]
+,CRIM_Model_0023,Benedicta es,CRIM_Model_0023(1),1,Cantus,Cantus,Cantus
+,CRIM_Model_0023,Benedicta es,CRIM_Model_0023(2),2,Altus,Altus,Altus
+,CRIM_Model_0023,Benedicta es,CRIM_Model_0023(3),3,Quinta pars,Quintus,Quinta pars
+,CRIM_Model_0023,Benedicta es,CRIM_Model_0023(4),4,Tenor,Tenor,Tenor
+,CRIM_Model_0023,Benedicta es,CRIM_Model_0023(5),5,Sexta pars,Sextus,Sexta pars
+,CRIM_Model_0023,Benedicta es,CRIM_Model_0023(6),6,Bassus,Bassus,Bassus
+,CRIM_Model_0024,Susanne un jour,CRIM_Model_0024(1),1,[Superius],Superius,Superius
+,CRIM_Model_0024,Susanne un jour,CRIM_Model_0024(2),2,Contratenor,Contratenor,Contratenor
+,CRIM_Model_0024,Susanne un jour,CRIM_Model_0024(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0024,Susanne un jour,CRIM_Model_0024(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0025,"Ite, rime dolenti, ite, sospiri",CRIM_Model_0025(1),1,Cantus,Cantus,cantus
+,CRIM_Model_0025,"Ite, rime dolenti, ite, sospiri",CRIM_Model_0025(2),2,Altus,Altus,altus
+,CRIM_Model_0025,"Ite, rime dolenti, ite, sospiri",CRIM_Model_0025(3),3,Tenor,Tenor,tenor
+,CRIM_Model_0025,"Ite, rime dolenti, ite, sospiri",CRIM_Model_0025(4),4,Quintus,Quintus,quintus
+,CRIM_Model_0025,"Ite, rime dolenti, ite, sospiri",CRIM_Model_0025(5),5,Bassus,Bassus,bassus
+,CRIM_Model_0026,Il me souffit,CRIM_Model_0026(1),1,Superius,Superius,Superius
+,CRIM_Model_0026,Il me souffit,CRIM_Model_0026(2),2,Contratenor,Contratenor,Altus
+,CRIM_Model_0026,Il me souffit,CRIM_Model_0026(3),3,Tenor,Tenor,Tenor
+,CRIM_Model_0026,Il me souffit,CRIM_Model_0026(4),4,Bassus,Bassus,Bassus
+,CRIM_Model_0027,Quando lieta sperai,CRIM_Model_0027(1),1,Cantus,Cantus,
+,CRIM_Model_0027,Quando lieta sperai,CRIM_Model_0027(2),2,Altus,Altus,
+,CRIM_Model_0027,Quando lieta sperai,CRIM_Model_0027(3),3,Quintus,Quintus,
+,CRIM_Model_0027,Quando lieta sperai,CRIM_Model_0027(4),4,Tenor,Tenor,
+,CRIM_Model_0027,Quando lieta sperai,CRIM_Model_0027(5),5,Bassus,Bassus,
+,CRIM_Model_0029,Super flumina babylonis,CRIM_Model_0029(1),1,Superius,Superius,
+,CRIM_Model_0029,Super flumina babylonis,CRIM_Model_0029(2),2,Altus,Altus,
+,CRIM_Model_0029,Super flumina babylonis,CRIM_Model_0029(3),3,Tenor,Tenor,
+,CRIM_Model_0029,Super flumina babylonis,CRIM_Model_0029(4),4,Bassus,Bassus,
+,CRIM_Model_0030,Tant que vivray,CRIM_Model_0030(1),1,Superius,Superius,
+,CRIM_Model_0030,Tant que vivray,CRIM_Model_0030(2),2,Altus,Altus,
+,CRIM_Model_0030,Tant que vivray,CRIM_Model_0030(3),3,Tenor,Tenor,
+,CRIM_Model_0030,Tant que vivray,CRIM_Model_0030(4),4,Bassus,Bassus,
+,CRIM_Model_0031,In te Domine ,CRIM_Model_0031(1),1,Cantus,,
+,CRIM_Model_0032,Sancta et immaculata virginitas,CRIM_Model_0032(1),1,Superius,Superius,
+,CRIM_Model_0032,Sancta et immaculata virginitas,CRIM_Model_0032(2),2,Altus,Altus,
+,CRIM_Model_0032,Sancta et immaculata virginitas,CRIM_Model_0032(3),3,Tenor,Tenor,
+,CRIM_Model_0032,Sancta et immaculata virginitas,CRIM_Model_0032(4),4,Bassus,Bassus,
